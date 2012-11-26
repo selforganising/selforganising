@@ -377,8 +377,8 @@ Full-Width Styles
   font-size: smaller;
 }
 
-.icons { float: right; }
-.icons img { width: 32px; height: 32px; border-style: none; }
+.icons { position: absolute; right: 0; bottom: -10px; }
+.icons img { width: 16px; height: 16px; border-style: none; }
 
 
 
