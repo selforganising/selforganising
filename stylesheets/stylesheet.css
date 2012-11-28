@@ -143,7 +143,7 @@ strong {
   font-weight: bold;
 }
 
-img {
+/*img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
@@ -156,7 +156,7 @@ img {
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
   -ms-box-shadow: 0 0 5px #ebebeb;
-}
+}*/
 
 pre, code {
   width: 100%;
@@ -257,10 +257,10 @@ form {
   padding: 20px;
 }
 
-img {
+/*img {
   width: 100%;
   max-width: 100%;
-}
+}*/
 
 /*******************************************************************************
 Full-Width Styles
@@ -378,8 +378,10 @@ Full-Width Styles
 }
 
 .icons { position: absolute; right: 0; bottom: -10px; }
-.icons img { width: 24px; height: 24px; border-style: none; }
+.icons img { width: 24px; height: 24px; border-style: none; margin: 0 0 10px; }
 
+.logo {float: left; margin: 0 10px 40px 0; }
+.logo img {width: 60px; height: 60px; }
 
 
 /*******************************************************************************
