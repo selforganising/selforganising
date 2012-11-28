@@ -380,8 +380,8 @@ Full-Width Styles
 .icons { position: absolute; right: 0; bottom: -10px; }
 .icons img { width: 24px; height: 24px; border-style: none; margin: 0 0 10px; }
 
-.logo {float: right; margin: 0 10px 40px 0; }
-.logo img {width: 60px; height: 60px; }
+.logo {float: right; }
+.logo img {width: 64px; height: 64px; }
 
 
 /*******************************************************************************
