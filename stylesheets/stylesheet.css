@@ -61,7 +61,7 @@ body {
   background: #212121;
   font-size: 16px;
   /*font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;*/
-  font-family: 'Helvetica neue', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -74,6 +74,10 @@ h1, h2, h3, h4, h5, h6 {
   /*font-family: 'Helvetica neue', Helvetica, Arial, sans-serif;*/
   letter-spacing: -1px;
 }
+.outer {
+  font-family: 'Helvetica neue', Helvetica, Arial, sans-serif;  
+}
+
 
 h1 {
   font-size: 36px;
