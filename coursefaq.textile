@@ -18,13 +18,17 @@ dd. In other words. treat everyone at Collective with kindness and courtesy. Do 
 
 dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't believe you don't know that?". No "Well-actually"s, as in "Well, actually, that's not the way you do it". No offering advice that hasn't been asked for.
 
+dt. Timekeeping
+
+dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are usually at 4.30pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
+
 dt. What does the course consist of?
 
 dd. The course is a combination of guided programming exercises and a series of more open-ended programming projects. 
 
-dt. Timekeeping
+dt. Do we need to bring any equipment?
 
-dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are usually at 4.30pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
+dd. All the technology you need will be will be provided.
 
 dt. Headphones
 
