@@ -10,7 +10,7 @@ dt. Location
 
 dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of C/159.
 
-dt. What is the First Rule of Collective?
+dt. The First Rule of Collective
 
 dd. Don't be an arse. 
 
@@ -22,11 +22,11 @@ dt. Timekeeping
 
 dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are usually at 4.30pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
 
-dt. What does the course consist of?
+dt. The course
 
 dd. The course is a combination of guided programming exercises and a series of more open-ended programming projects. 
 
-dt. Do we need to bring any equipment?
+dt. Equipment
 
 dd. All the technology you need will be will be provided.
 
