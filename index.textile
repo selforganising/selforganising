@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Self Organising
+title: Self-organising
 ---
 
 {% include faq.html %}
