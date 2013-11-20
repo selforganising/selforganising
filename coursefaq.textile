@@ -1,0 +1,80 @@
+---
+layout: index
+title: The course FAQ
+category: 
+standfirst: "The Course FAQ" 
+---
+<dl>
+
+dt. What is the First Rule of Collective?
+
+dd. Don't be an arse. In other words. treat everyone at Collective with kindness and courtesy. Do not make remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
+
+dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't believe you don't know that?". No "Well-actually"s, as in "Well, actually, that's not the way you do it". No offering advice that hasn't been asked for.
+
+dt. What does the course consist of?
+
+dd. The course is a combination of guided programming exercises and a series of more open-ended programming projects. 
+
+dt. Location
+
+dd. For the duration of the course, we will have our own classroom on the first floor of C/159. You may also be able to use the hot-desking areas (but only if space is available) if you feel the need to stretch your legs or it you find it easier to concentrate away from the rest of us for a bit.
+
+dt. Timekeeping
+
+dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are usually at 4.30pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
+
+dt. Headphones
+
+dd. Aside from the laptop, headphones are perhaps the most important tool we provide you with (and you are also welcome to bring your own). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+
+dt. Working together
+
+dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Don't be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem explaining it to somebody else can be.
+
+dt.  Pair programming
+
+dd. In pair programming, one person is at the keyboard typing code and the other is next to them discussing the problem as they work on it together. Paired sessions can last for a couple of minutes or several hours. 
+  
+dd. Pair programming is helpful because two people will together have fewer gaps in their knowledge than each of them separately, but just as importantly, talking about a problem as we are trying to solve it can have an extraordinary effect on our understanding. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in solving it.
+
+dd. Sometimes, even with two people, it is possible to get stuck. In that case, take a break. Have a cup of tea. Go for a walk. Do a bit of Google research or check Stack Overflow. Or close your eyes and try to visualise a solution. And then come back to the problem with a fresh perspective and some new ideas.
+  
+dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
+
+dd. We have provided some monitors that can be plugged into your computers, in order to make it easier for two people to view the screen together.
+
+dt. Code reviews
+
+dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. Code reviews can be great when two people have been working on the same problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things. Every piece of code that gives the expected output is doing something right.
+  
+dd. Code reviews can also be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
+
+dt. Self-organising study
+
+dd. In the latter part of the course we are going to be spending more time on short, open-ended projects. A number of these will be provided by our partners, our sponsors and by Collective members. We also encourage you to think about problems that you would like to propose yourself.
+
+dd. We encourage you to organise yourselves for each project into small groups of three or four and to divide up tasks between you.
+
+dd. Many of the projects are somewhat open-ended, are provided without a lot of guidance and are likely to require a fair amount of research as well as hands-on development.
+
+dd. We encourage the free flow of information between groups, too. You are welcome to make contributions to the work of other groups or go and find out what they are working on.
+
+dd. Each project will end with presentations and demos.
+
+dt. Nourishment. 
+
+dd. We have access to a kitchen, but we need to provide our own refreshments. It might be a good idea to establish a kitty and get some provisions in.
+
+dt. Health
+
+dd. When working at a computer, it is very easy to forget to look after yourself. Remember to take a short break every 20 minutes or so. Lean back in your chair. Place the palm of your hands on your eyes or slowly turn your head around and focus your eyes in the middle distance or out of the window for 20 seconds. At least every hour, go for a walk and stretch your legs.
+
+</dl>
+
+
+
+
+
+
+
