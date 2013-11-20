@@ -6,6 +6,10 @@ standfirst: "The Course FAQ"
 ---
 <dl>
 
+dt. Location
+
+dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of C/159.
+
 dt. What is the First Rule of Collective?
 
 dd. Don't be an arse. In other words. treat everyone at Collective with kindness and courtesy. Do not make remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
@@ -15,10 +19,6 @@ dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't
 dt. What does the course consist of?
 
 dd. The course is a combination of guided programming exercises and a series of more open-ended programming projects. 
-
-dt. Location
-
-dd. For the duration of the course, we will have our own classroom on the first floor of C/159. You may also be able to use the hot-desking areas (but only if space is available) if you feel the need to stretch your legs or it you find it easier to concentrate away from the rest of us for a bit.
 
 dt. Timekeeping
 
