@@ -1,4 +1,4 @@
-selforganising
+Self-organising
 ==============
 
-The Self-organising University
+For information, go to http://selforganising.org/.
