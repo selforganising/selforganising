@@ -30,7 +30,7 @@ dd. Aside from the laptop, headphones are perhaps the most important tool we pro
 
 dt. Working together
 
-dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Don't be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem explaining it to somebody else can be.
+dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Don't be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem helping some somebody else with it can be.
 
 dt.  Pair programming
 
@@ -62,9 +62,13 @@ dd. We encourage the free flow of information between groups, too. You are welco
 
 dd. Each project will end with presentations and demos.
 
-dt. Nourishment. 
+dt. Nourishment
 
 dd. We have access to a kitchen, but we need to provide our own refreshments. It might be a good idea to establish a kitty and get some provisions in.
+
+dt. Heating
+
+dd. C/159 does not have central heating. Dress warm.
 
 dt. Health
 
