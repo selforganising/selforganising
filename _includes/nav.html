@@ -1,0 +1,7 @@
+<p>| 
+{% for post in site.pages %}
+  {% if post.linktext %}
+      <a href="{{ post.url }}">{{ post.linktext }}</a> |
+      {% endif %}
+{% endfor %}
+</p>
