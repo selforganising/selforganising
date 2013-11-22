@@ -12,22 +12,21 @@ The choice of Google App Engine boils down to a number of factors. the main reas
 
 As an educational tool, it's really pretty good. It probably offers the quickest route to understanding how to implement and deploy most of the key components of a web application. It is free for small-scale use. And it is suitable for building large-scale, high-traffic  websites, so can be used for real projects of any size--which is presumably why Steve Huffman chose it (although given Sebastian Thrun's association with Google, there were quite possibly other reasons).
 
-Also, increasingly, web application development is taking place on the client side, so the question of which server-side technology to use is for many applications becoming less critical (although still important). Understanding the concepts and being able to apply them quickly is the priority for this course.
+Also, increasingly, web application development is taking place on the client side, so the question of which server-side technology to use is for many applications becoming less critical (although still important). Understanding the concepts, being able to apply them quickly and easy integration with different services is the priority for this course.
 
 h2. Python
 
-The choice of Python as the server-side language for this course, likewise boils down to it being the language used in Steve Huffman's course, but it is easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn.
+The choice of Python as the server-side language likewise boils down to it being the language used Steve Huffman's course (as well as Udacity's CS101), but it is also easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn.
 
 It's big disadvantage is that it is not Javascript, which needs to be learnt for the client side.
 
 This does mean that students will have to learn two languages (as well as the basics of HTML and CSS) in the short time that we have available, but I am pretty sure that this is  balanced by the time saved on development and deployment on the server side.
 
-
 There were three other serious application choices for this course:
 
-node.js, which is of course becoming widespread for building real-time and collaborative apps, but is not an easy platform to learn programming on fir the first time. If Google had some node.js-like service running on top of V8 on AppEngine, then I might have been tempted to go with that.
+*node.js*, which is of course becoming widespread for building real-time and collaborative apps, but is not an easy platform to learn programming on for the first time. If Google had some node.js-like service running on top of V8 on AppEngine, then I might have been tempted to go with that.
 
-Ruby on Rails, which currently offers a number of job opportunities and is used by many startups, but is a bit idiosyncratic and "magical". For somebody that wants a career as a Rails developer, there are other schools that offer Rails courses.
+*Ruby on Rails*, which currently offers a number of job opportunities and is used by many startups, but requires learning a number of application-specific skills and involves a fair bit of "magic", which will not help students learn general principles. For somebody that wants a career as a Rails developer, there are other schools that offer suitable training.
 
 PHP, which many years ago became the default server-side language for countless small websites, many of which have since grown very large. It is not a general-purpose programming language and the future of web programming almost certainly lies elsewhere. It's good for getting WordPress jobs, though.
 
@@ -37,7 +36,7 @@ We might have struggled twelve months ago to do _everything_ in a web browser, b
 
 We may still need to work around a few things and more research is needed, but I think it's probably viable.
 
-The HP Chromebook 11s look like they are going to be perfect little development machines, especially if they are hooked up to larger monitors for pairing sessions.
+The HP Chromebook 11's look like they are going to be perfect little development machines, especially if they are hooked up to larger monitors for pairing sessions.
 
 
 
