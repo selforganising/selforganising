@@ -27,7 +27,7 @@ dd. The day officially starts at 9.30am with a study planning meeting. We recomm
 
 dd. On Mondays at 6.30pm there is a curriculum planning meeting, which you are welcome to attend.
 
-dd. On Wednesdays between 6pm and 9pm we will be joined by a study group for Udacity's CS101, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
+dd. On Wednesdays between 6pm and 9pm we will be joined by a study group of prospective students, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
 
 dt. Curriculum
 
