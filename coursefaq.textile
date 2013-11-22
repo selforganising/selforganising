@@ -7,15 +7,15 @@ standfirst: "The Course FAQ"
 ---
 <dl>
 
-dt. Location
-
-dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/.
-
 dt. The First Rule of Collective
 
 dd. Means not making remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
 
 dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't believe you don't know that?". No "Well-actually"s, as in "Well, actually, that's not the way you do it". No offering advice that hasn't been asked for.
+
+dt. Location
+
+dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/.
 
 dt. Before you start
 
@@ -41,9 +41,9 @@ dt. Headphones
 
 dd. Aside from the computers, headphones are perhaps the most important tool we provide you with (although if you have your own pair, you might want to bring them instead). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
-dt. Hanging out
+dt. Online conferencing
 
-dd. Although we will spend much of the time over the next several weeks in the same room, we will also share a Google hangout together for the length of the course.
+dd. Although we will spend much of the time over the next several weeks in the same room, we will also share a Google Hangout together for the length of the course.
 
 dt. Working together
 
@@ -61,7 +61,7 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
-dd. We have provided some monitors that can be plugged into your computers, in order to make it easier for two people to view the screen together.
+dd. We provide some monitors that can be plugged into your computers, in order to make it easier for two people to view the screen together.
 
 dt. Code reviews
 
@@ -71,13 +71,13 @@ dd. Code reviews can also be really useful when you have finished working on a p
 
 dt. Core curriculum
 
-dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has reached a similar level of competence and familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you already have some familiarity with by pairing up with somebody who is still working through it for the first time.
+dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has reached a similar level of competence and familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you have already covered by pairing up with somebody who is still working through it for the first time.
 
 dt. Self-organising study
 
 dd. In the latter part of the course we are going to be spending more time on some open-ended challenges. A number of these will be provided by our partners, our sponsors and by Collective members.
 
-dd. We encourage you to organise yourselves for each project into small groups of three or four and to divide up tasks between you.
+dd. We encourage you to organise yourselves for each challenge into small groups of three or four and to divide up tasks between you.
 
 dd. Change the composition of the groups for each new challenge. And allow the free flow of information between groups. You are welcome to make contributions to the work of other groups or go and find out what they are working on.
 

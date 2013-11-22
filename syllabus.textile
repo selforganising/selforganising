@@ -16,16 +16,19 @@ h2. Prerequisite:
 * "Udacity: Introduction to Computer Science":https://www.udacity.com/course/cs101
 (although for the pilot this is going to spill into the course proper)
 
-h2. Core curriculum:
+h2. Weeks 1-3: Core curriculum
+
+* Continuation of "Udacity: Introduction to Computer Science":https://www.udacity.com/course/cs101
 * "Udacity: Web Development":https://www.udacity.com/course/cs253
 * "Codecademy: Web projects":http://www.codecademy.com/tracks/projects
 * "Codecademy: Web Fundamentals":http://www.codecademy.com/tracks/web
 * "Codecademy: jQuery":http://www.codecademy.com/tracks/jquery
 * "Codecademy: Javascript":http://www.codecademy.com/tracks/javascript
 
-Once the core curriculum has been covered, the course consists of a series of one-day challenges. (Almost) all the projects would be expected to involve demonstrations of working code.
 
-We also expect everyone to together choose a group project to work on.
+Weeks 4 & 5: Group challenges
+
+Once the core curriculum has been covered, the course consists of a series of one-day challenges. (Almost) all the projects would be expected to involve demonstrations of working code.
 
 Some proposed challenges:
 
@@ -39,11 +42,16 @@ Some proposed challenges:
 * Angular or Backbone?
 * Who built JSLint and why? How and when would you use it? 
 * Which programming language "miraculously combined functions as first class objects with lexical closures and dynamic objects with prototypal inheritance?" Demonstrate the usefulness of these two features.
-* Find out about some functional programming idioms in python and see if you can refactor any of your backend code using these idioms. Was it worth it?
-* Create a new course on codecademy on a topic of your choice.
+* Find out about some functional programming idioms in Python and see if you can refactor any of your backend code using these idioms. Was it worth it?
+* Create a new course on Codecademy on a topic of your choice.
 
 We would also invite people and organisations to submit their own challenges and, if possible, come in at the end of the day to discuss the challenge and their own work.
 
 Every time we run the course, we throw out the three or four least-liked projects and replace them with new ones.
+
+h2. Week 6: Group project
+
+In the final week, everyone is expected to work together on a group project.
+
 
 
