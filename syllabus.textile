@@ -25,12 +25,11 @@ h2. Weeks 1-3: Core curriculum
 * "Codecademy: jQuery":http://www.codecademy.com/tracks/jquery
 * "Codecademy: Javascript":http://www.codecademy.com/tracks/javascript
 
-
-Weeks 4 & 5: Group challenges
+h2. Weeks 4 & 5: Group challenges
 
 Once the core curriculum has been covered, the course consists of a series of one-day challenges. (Almost) all the projects would be expected to involve demonstrations of working code.
 
-Some proposed challenges:
+h3. Some proposed challenges
 
 * PivotalTracker. Any use? (no code needed for this one)
 * Blueprint or Foundation?
