@@ -9,7 +9,7 @@ standfirst: "The Course FAQ"
 
 dt. Location
 
-dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of C/159.
+dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/.
 
 dt. The First Rule of Collective
 
