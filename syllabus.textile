@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Coding the web: syllabus"
+category: info
+linktext: syllabus
+standfirst: "Draft" 
+---
+
+h2. Inspiration: 
+* "Hacker School":https://www.hackerschool.com/
+* "Self-organised Learning Environments":http://www.youtube.com/watch?v=SiGbfhnvT4Q *
+
+( &#42; OK. I know these are primary school kids, but the idea of learning in loosely-coupled groups using very broadly defined tasks that stretch students' knowledge without offering them much help or guidance looks to be broadly applicable.)
+
+h2. Prerequisite:
+* "Udacity: Introduction to Computer Science":https://www.udacity.com/course/cs101
+(although for the pilot this is going to spill into the course proper)
+
+h2. Core curriculum:
+* "Udacity: Web Development":https://www.udacity.com/course/cs253
+* "Codecademy: Web projects":http://www.codecademy.com/tracks/projects
+* "Codecademy: Web Fundamentals":http://www.codecademy.com/tracks/web
+* "Codecademy: jQuery":http://www.codecademy.com/tracks/jquery
+* "Codecademy: Javascript":http://www.codecademy.com/tracks/javascript
+
+Once the core curriculum has been covered, the course consists of a series of one-day challenges. (Almost) all the projects would be expected to involve demonstrations of working code.
+
+We also expect everyone to together choose a group project to work on.
+
+Some proposed challenges:
+
+* PivotalTracker. Any use? (no code needed for this one)
+* Blueprint or Foundation?
+* Do some interesting things with the Facebook API.
+* Do some interesting things with the Twitter API.
+* Add as many different third-party login services as you can to your AppEngine blog.
+* Find a JSON dataset of at least 1,000 records and load it into the browser using Ajax. Use underscore.js to filter it. 
+* Do something interesting with the Google maps API.
+* Angular or Backbone?
+* Who built JSLint and why? How and when would you use it? 
+* Which programming language "miraculously combined functions as first class objects with lexical closures and dynamic objects with prototypal inheritance?" Demonstrate the usefulness of these two features.
+* Find out about some functional programming idioms in python and see if you can refactor any of your backend code using these idioms. Was it worth it?
+* Create a new course on codecademy on a topic of your choice.
+
+We would also invite people and organisations to submit their own challenges and, if possible, come in at the end of the day to discuss the challenge and their own work.
+
+Every time we run the course, we throw out the three or four least-liked projects and replace them with new ones.
+
+
