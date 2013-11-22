@@ -1,7 +1,8 @@
 ---
-layout: index
+layout: post
 title: The course FAQ
-category: 
+category: info
+linktext:  "course faq"
 standfirst: "The Course FAQ" 
 ---
 <dl>
@@ -12,27 +13,37 @@ dd. This course is taking place at Collective Academy, where we will have our ow
 
 dt. The First Rule of Collective
 
-dd. Don't be an arse. 
-
-dd. In other words. treat everyone at Collective with kindness and courtesy. Do not make remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
+dd. Treat everyone at Collective with kindness and courtesy. Do not make remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
 
 dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't believe you don't know that?". No "Well-actually"s, as in "Well, actually, that's not the way you do it". No offering advice that hasn't been asked for.
 
+dt. Before you start
+
+dd. After you have accepted a place, you will be set a long homework assignment, which will be a prerequisite for eventually taking the course. In the weeks leading up to the course, we will meet up weekly to discuss the homework, get to know each other and to start working as a group. If you are unable to complete the homework to your own satisfaction before the course starts, you will automatically be offered a place with our next cohort, which we intend to run shortly after this course ends.
+
 dt. Timekeeping
 
-dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are usually at 4.30pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
+dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
 
-dt. The course
+dd. On Mondays at 6.30pm there is a curriculum planning meeting, which you are welcome to attend.
 
-dd. The course is a combination of guided programming exercises and a series of more open-ended programming projects. 
+dd. On Wednesdays between 6pm and 9pm we will be joined by a study group for Udacity's CS101, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
+
+dt. Curriculum
+
+dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises, which will follow on from the pre-curse homework assignment. The second part of the course consists of a series of open-ended challenges and programming projects. 
 
 dt. Equipment
 
-dd. All the technology you need will be will be provided.
+dd. All the technology you need will be provided (although you are also welcome to bring your own).
 
 dt. Headphones
 
-dd. Aside from the computers, headphones are perhaps the most important tool we provide you with (and you are also welcome to bring your own). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+dd. Aside from the computers, headphones are perhaps the most important tool we provide you with (although if you have your own pair, you might want to bring them instead). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+
+dt. Hanging out
+
+dd. Although we will spend much of the time over the next several weeks in the same room, we will also share a Google hangout together for the length of the course.
 
 dt. Working together
 
@@ -42,7 +53,9 @@ dt.  Pair programming
 
 dd. In pair programming, one person is at the keyboard typing code and the other is next to them discussing the problem as they work on it together. Paired sessions can last for a couple of minutes or several hours. 
   
-dd. Pair programming is helpful because two people will together have fewer gaps in their knowledge than each of them separately, but just as importantly, talking about a problem as we are trying to solve it can have an extraordinary effect on our understanding. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in solving it.
+dd. Pair programming is helpful because two people will together have fewer gaps in their knowledge than each of them separately, but just as importantly, talking about a problem as we are trying to solve it can have an extraordinary effect on our understanding of it. 
+
+dd. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often, embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in solving it.
 
 dd. Sometimes, even with two people, it is possible to get stuck. In that case, take a break. Have a cup of tea. Go for a walk. Do a bit of Google research or check Stack Overflow. Or close your eyes and try to visualise a solution. And then come back to the problem with a fresh perspective and some new ideas.
   
@@ -52,21 +65,35 @@ dd. We have provided some monitors that can be plugged into your computers, in o
 
 dt. Code reviews
 
-dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. Code reviews can be great when two people have been working on the same problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things. Every piece of code that gives the expected output is doing something right.
+dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. Code reviews can be great when two people have been working on the same problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
   
 dd. Code reviews can also be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
 
+dt. Core curriculum
+
+dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has reached a similar level of competence and familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you already have some familiarity with by pairing up with somebody who is still working through it for the first time.
+
 dt. Self-organising study
 
-dd. In the latter part of the course we are going to be spending more time on short, open-ended projects. A number of these will be provided by our partners, our sponsors and by Collective members. We also encourage you to think about problems that you would like to propose yourself.
+dd. In the latter part of the course we are going to be spending more time on some open-ended challenges. A number of these will be provided by our partners, our sponsors and by Collective members.
 
 dd. We encourage you to organise yourselves for each project into small groups of three or four and to divide up tasks between you.
 
-dd. We encourage the free flow of information between groups, too. You are welcome to make contributions to the work of other groups or go and find out what they are working on.
+dd. Change the composition of the groups for each new challenge. And allow the free flow of information between groups. You are welcome to make contributions to the work of other groups or go and find out what they are working on.
 
-dd. Many of the projects are somewhat open-ended, are provided without a lot of guidance and are likely to require a fair amount of research as well as hands-on development.
+dd. Many of the challenges are somewhat open-ended, are provided without a lot of guidance and are likely to require a fair amount of research as well as hands-on development.
 
-dd. Each project will end with presentations and demos.
+dd. We also encourage you to think about problems that you would like to propose yourself. Towards the end of the course, there will be time to work in groups on a project of your own choosing.
+
+dd. You don't have to bring your own project to work on and in some ways it is better if the projects emerge out of discussions between course participants, so that everyone on a project is equally committed to it. 
+
+dd. It is OK if you don't yet have any ideas for projects. In many ways, it is more important that you are willing to engage constructively with other people's project proposals. Usually, coming up with a good idea and being able to execute it well requires the committed input of more than one person.
+
+dd. Each challenge and each project will end with presentations and demos.
+
+dt. Blogging
+
+dd. We really encourage you to blog and vlog regularly about your experiences on this course. It will provide us and prospective students with valuable feedback.
 
 dt. Nourishment
 

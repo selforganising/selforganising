@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Collective Academy launches
-category: 
+category:
 standfirst: "Learn to code in Camden Town" 
 ---
 Collective Academy is a new initiative of Camden Town Unlimited and it aims to provide training in software development to people who have little or no experience in programming, but are very motivated to learn.
