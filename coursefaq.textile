@@ -31,7 +31,7 @@ dd. On Wednesdays between 6pm and 9pm we will be joined by a study group of pros
 
 dt. Curriculum
 
-dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises, which will follow on from the pre-curse homework assignment. The second part of the course consists of a series of open-ended challenges and programming projects. 
+dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises, which will follow on from the pre-course homework assignment. The second part of the course consists of a series of open-ended challenges and programming projects. 
 
 dt. Equipment
 
