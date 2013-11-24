@@ -12,7 +12,7 @@ h3. Draft
 
 dt. What is Collective Academy?
 
-dd. It is a collaboration between "Camden Town Unlimited":http://www.camdentownunlimited.com/ and "self-organising":http://selforganising.org/.
+dd. It is a collaboration between "Camden Town Unlimited":http://www.camdentownunlimited.com/ and "Self-organising":http://selforganising.org/.
 
 dt. What courses are offered at Collective Academy?
 
