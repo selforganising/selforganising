@@ -14,7 +14,7 @@ Google AppEngine is the application service used in Steve Huffman's course on We
 
 As an educational tool, it's really pretty good. It probably offers the quickest route to understanding how to implement and deploy most of the key components of a web application. It is free for small-scale use. And it is suitable for building large-scale, high-traffic  websites, so can be used for real projects of any size--which is presumably why Steve Huffman chose it (although given Sebastian Thrun's association with Google, there were quite possibly other reasons).
 
-Also, increasingly, web application development is taking place on the client side, so the question of which server-side technology to use is for many applications becoming less critical (although still important). Understanding the concepts, being able to apply them quickly and easy integration with different services is the priority for this course.
+Also, increasingly, web application development is taking place on the client side, so the question of which server-side technology to use is for many applications becoming less critical (although still important). Understanding the concepts, being able to apply them quickly, and easy integration with different services are the priorities for this course.
 
 h2. Python
 
