@@ -3,7 +3,7 @@ layout: post
 title: The course FAQ
 category: info
 linktext:  "course faq"
-standfirst: "The Course FAQ" 
+standfirst:
 ---
 
 h3. Draft
@@ -22,9 +22,7 @@ dt. Timetable
 
 dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
 
-dd. On Mondays at 6.30pm there is a curriculum planning meeting, which you are welcome to attend.
-
-dd. On Wednesdays between 6pm and 9pm we will be joined by a study group of prospective students, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
+dd. On Wednesdays [?] between 6pm and 9pm we will be joined by a study group of prospective students, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
 
 dt. Curriculum
 
@@ -46,7 +44,7 @@ dd. In pair programming, one person is at the keyboard typing code and the other
   
 dd. Pair programming is helpful because two people will together have fewer gaps in their knowledge than each of them separately, but just as importantly, talking about a problem as we are trying to solve it can have an extraordinary effect on our understanding of it. 
 
-dd. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often, embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in solving it.
+dd. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often, embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in reaching a solution.
 
 dd. Sometimes, even with two people, it is possible to get stuck. In that case, take a break. Have a cup of tea. Go for a walk. Do a bit of Google research or check Stack Overflow. Or close your eyes and try to visualise a solution. And then come back to the problem with a fresh perspective and some new ideas.
   
@@ -56,9 +54,11 @@ dt. Code reviews
 
 dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. 
 
-dd. Code reviews can be great when two people have been working on the same--or different parts of a--problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
+dd. Code reviews can be useful when two people have been working on the same--or different parts of a--problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
   
-dd. Code reviews can be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
+dd. Code reviews usually happen when you have finished working on a piece of code and want feedback on your solution. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
+
+dd. Unlike pair programming, code reviews can involve more than two people, they do not often last very long and the reviewer does not usually get involved in the coding of a solution.
 
 dt. Core curriculum
 
@@ -66,7 +66,7 @@ dd. The pace at which we get through the core curriculum will depend on the pace
 
 dt. Self-organising study
 
-dd. In the latter part of the course we are going to be spending more time on some open-ended challenges. A number of these will be provided by our partners, our sponsors and by Collective members.
+dd. In the latter part of the course we are going to be spending more time on some open-ended challenges. Some of these will be provided by our partners, our sponsors and by Collective members.
 
 dd. We encourage you to organise yourselves for each challenge into small groups of three or four and to divide up tasks between you.
 
