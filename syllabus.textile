@@ -3,8 +3,10 @@ layout: post
 title: "Coding the web: syllabus"
 category: info
 linktext: syllabus
-standfirst: "Draft" 
+standfirst: 
 ---
+
+h3. Draft
 
 h2. Inspiration: 
 * "Hacker School":https://www.hackerschool.com/

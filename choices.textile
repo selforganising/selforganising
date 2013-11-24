@@ -3,8 +3,10 @@ layout: post
 title: "Notes about technology choices"
 category: info
 linktext: technology
-standfirst: "Draft" 
+standfirst:  
 ---
+
+h3. Draft
 
 h2. Google AppEngine
 

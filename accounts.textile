@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Accounts"
+category: info
+linktext: accounts
+standfirst: "Required or recommended for the course" 
+---
+
+* Google/Gmail
+* Linkedin
+* Facebook
+* Twitter 
+* Github
+* Nitrous.io

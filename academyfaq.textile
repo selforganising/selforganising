@@ -5,6 +5,9 @@ category: info
 linktext:  "academy faq"
 standfirst: "About our courses at Collective Academy" 
 ---
+
+h3. Draft
+
 <dl>
 
 dt. What is Collective Academy?

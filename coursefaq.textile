@@ -5,6 +5,9 @@ category: info
 linktext:  "course faq"
 standfirst: "The Course FAQ" 
 ---
+
+h3. Draft
+
 <dl>
 
 dt. Location
