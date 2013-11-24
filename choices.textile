@@ -16,11 +16,11 @@ Also, increasingly, web application development is taking place on the client si
 
 h2. Python
 
-The choice of Python as the server-side language is determined by it being the language used on Steve Huffman's course (as well as Udacity's CS101). But even if we put this deciding factor to one side, Python is easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn. It is also the language used for the examples in Matthew Russell's book, _Mining the Social Web_, which we will use as a reference for some of the challenges in the latter part of the course.
+The choice of Python as the server-side language is determined by it being the language used on Steve Huffman's course (as well as Udacity's CS101). But even if we put this deciding factor to one side, Python is easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn (It is also the language used for the examples in Matthew Russell's book, _Mining the Social Web_, which we might well use as a reference for some of the challenges in the latter part of the course).
 
 It's big disadvantage is that it is not Javascript, which needs to be learnt for the client side.
 
-This does mean that students will have to learn two languages (as well as the basics of HTML and CSS) in the short time that we have available, but I am pretty sure that this is  balanced by the time saved on development and deployment on the server side.
+This does mean that students will have to learn two languages (as well as the basics of HTML and CSS) in the short time that we have available, but I don't see any easy ways round that.
 
 There were three other serious application choices for this course:
 
