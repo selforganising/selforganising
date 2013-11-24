@@ -10,7 +10,7 @@ h3. Draft
 
 h2. Google AppEngine
 
-The choice of Google App Engine boils down to a number of factors. the main reason is that it is the application service used in Steve Huffman's course on Web Development. 
+Google AppEngine is the application service used in Steve Huffman's course on Web Development and the choice to use AppEngine is wrapped up with the choice to use that course as a major component of this course. 
 
 As an educational tool, it's really pretty good. It probably offers the quickest route to understanding how to implement and deploy most of the key components of a web application. It is free for small-scale use. And it is suitable for building large-scale, high-traffic  websites, so can be used for real projects of any size--which is presumably why Steve Huffman chose it (although given Sebastian Thrun's association with Google, there were quite possibly other reasons).
 
@@ -18,7 +18,7 @@ Also, increasingly, web application development is taking place on the client si
 
 h2. Python
 
-The choice of Python as the server-side language is determined by it being the language used on Steve Huffman's course (as well as Udacity's CS101). But even if we put this deciding factor to one side, Python is easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn (It is also the language used for the examples in Matthew Russell's book, _Mining the Social Web_, which we might well use as a reference for some of the challenges in the latter part of the course).
+The choice of Python as the server-side language is determined by it being the language used on Steve Huffman's course. But even if we put this deciding factor to one side, Python is easy to learn, powerful and widely used in many fields, not just web development. And although this course is about "coding the web", I don't want it to be _just_ about that. Python is a great all-round language to learn (It is also the language used for the examples in Matthew Russell's book, _Mining the Social Web_, which we might well use as a reference for some of the challenges in the latter part of the course).
 
 It's big disadvantage is that it is not Javascript, which needs to be learnt for the client side.
 
