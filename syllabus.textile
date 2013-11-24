@@ -39,10 +39,13 @@ h3. Some proposed challenges
 * Find a JSON dataset of at least 1,000 records and load it into the browser using Ajax. Use underscore.js to filter it. 
 * Do something interesting with the Google maps API.
 * Angular or Backbone?
+* Set up an advertising campaign for your site
 * Who built JSLint and why? How and when would you use it? 
 * Which programming language "miraculously combined functions as first class objects with lexical closures and dynamic objects with prototypal inheritance?" Demonstrate the usefulness of these two features.
 * Find out about some functional programming idioms in Python and see if you can refactor any of your backend code using these idioms. Was it worth it?
 * Create a new course on Codecademy on a topic of your choice.
+
+I will probably use Matthew Russell's book, _"Mining the Social Web"_:http://www.amazon.co.uk/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU/ as a reference for some of the challenges.
 
 We would also invite people and organisations to submit their own challenges and, if possible, come in at the end of the day to discuss the challenge and their own work.
 

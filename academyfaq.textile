@@ -9,7 +9,7 @@ standfirst: "About our courses at Collective Academy"
 
 dt. What is Collective Academy?
 
-dd. It is an initiative of Camden Town Unlimited.
+dd. It is an initiative of "Camden Town Unlimited":http://www.camdentownunlimited.com/.
 
 dt. What courses are offered at Collective Academy?
 

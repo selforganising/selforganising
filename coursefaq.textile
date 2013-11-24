@@ -29,13 +29,9 @@ dd. The first part of the course is made up of a core curriculum made up of a va
 
 dt. Equipment
 
-dd. All the technology you need will be provided (although you are also welcome to bring your own).
+dd. All the equipment you need will be provided (although you are also welcome to bring your own).
 
-dd. Aside from the computers, headphones are perhaps the most important tool we provide you with (although if you have your own pair, you might want to bring them instead). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
-
-dt. Online conferencing
-
-dd. Although we will spend much of the time over the next several weeks in the same room, we will also share a Google Hangout together for the length of the course.
+dd. Aside from the computers, headphones are perhaps the most important tool we provide (although if you have your own pair, you might want to bring them instead). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. Working together
 
@@ -53,17 +49,17 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
-dd. We provide some monitors that can be plugged into your computers, in order to make it easier for two people to view the screen together.
-
 dt. Code reviews
 
-dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. Code reviews can be great when two people have been working on the same problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
+dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. 
+
+Code reviews can be great when two people have been working on the same--or similar parts of--problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
   
-dd. Code reviews can also be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
+dd. Code reviews can be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
 
 dt. Core curriculum
 
-dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has reached a similar level of competence and familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you have already covered by pairing up with somebody who is still working through it for the first time.
+dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has some familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you have already covered by pairing up with somebody who is still working through it for the first time.
 
 dt. Self-organising study
 
@@ -85,7 +81,7 @@ dd. Each challenge and each project will end with presentations and demos.
 
 dt. Blogging
 
-dd. We really encourage you to blog and vlog regularly about your experiences on this course. It will provide us and prospective students with valuable feedback.
+dd. We encourage you to blog and vlog regularly about your experiences on this course. It will provide us and prospective students with valuable feedback.
 
 dt. Etiquette
 
@@ -99,7 +95,7 @@ dd. We have access to a kitchen, but we need to provide our own refreshments. It
 
 dt. Heating
 
-dd. C/159 does not have central heating. Dress warm.
+dd. C/159 does not have central heating, so although there is some heating, dress warmly, just in case.
 
 dt. Health
 
