@@ -56,7 +56,7 @@ dt. Code reviews
 
 dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. 
 
-Code reviews can be great when two people have been working on the same--or similar parts of--problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
+Code reviews can be great when two people have been working on the same&mdash;or similar parts of&mdash;problem and they want to compare their solutions. Very often (actually, always) a solution to a problem can be coded in multiple ways. There is always more than one way to do it. A solution might be elegant or easy to understand or short or quick to run or it might use a particularly satisfying idiom, but it usually isn't all of those things at once. Every piece of code that gives the expected output is doing something right.
   
 dd. Code reviews can be really useful when you have finished working on a piece of code and want feedback. As with pair programming, explaining your code and discussing your design choices with one or more people can deepen your understanding of the problem and give you valuable insights. Code reviews are useful for the reviewers, too, because it cultivates the ability to read other people's code, which as a programmer you can never do too much of.
 
