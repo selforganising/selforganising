@@ -8,12 +8,6 @@ standfirst:
 
 h3. Draft
 
-h2. Inspiration: 
-* "Hacker School":https://www.hackerschool.com/
-* "Self-organised Learning Environments":http://www.youtube.com/watch?v=SiGbfhnvT4Q *
-
-( &#42; OK. I know these are primary school kids, but the idea of learning in loosely-coupled groups using very broadly defined tasks that stretch students' knowledge without offering them much help or guidance looks to be broadly applicable.)
-
 h2. Thoughts about structure
 
 The course divides into three separate components: highly-structured online course material; one-day group challenges ("hack days"); and the final project.
