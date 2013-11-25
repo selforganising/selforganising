@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Curriculum development"
+category: info
+linktext:  "development"
+standfirst: "Some ideas on developing the curriculum"
+---
+
+<dl>
+
+dt. Curriculum review meetings
+
+dd. Weekly meetings to discuss the course content. Open to "Coding the web" graduates.
+
+dt. Once-a-week evening study group
+
+dd. For candidates who have been accepted on a course, in order for them to decide if the course is suitable for them.
+
+dt. Follow up study: study groups
+
+dd. Open-ended self-organising study groups, for which we will provide support and space (presumably on one or two evenings of the week).
+
+dt. Testing new material: hack days
+
+dd. Day-long events, primarily to be used for testing new material for the course, to which graduates of the course can be added, perhaps one Saturday per month.
+  
+</dl>
+
