@@ -22,8 +22,6 @@ dt. Timetable
 
 dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
 
-dd. On Mondays [?] between 6pm and 9pm we will be joined by a study group of prospective students, some of whom will be making up the next "Coding the web" cohort. You are very welcome to join in.
-
 dt. Curriculum
 
 dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises, which will follow on from the pre-course homework assignment. The second part of the course consists of a series of open-ended challenges and programming projects. 
