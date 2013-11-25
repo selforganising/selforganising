@@ -32,7 +32,7 @@ dt. Equipment
 
 dd. All the equipment you need will be provided (although you are also welcome to bring your own).
 
-dd. Aside from the computers, headphones are perhaps the most important tool we provide (although if you have your own pair, you might want to bring them instead). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+dd. Aside from the computers, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). When they are in, it is like wearing a big "Do Not Disturb" sign. So, get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. Working together
 
