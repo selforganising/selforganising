@@ -14,7 +14,7 @@ dd. Weekly meetings to discuss the course content. Open to "Coding the web" grad
 
 dt. Once-a-week evening study group
 
-dd. For candidates who have been accepted on a course, in order for them to decide if the course is suitable for them.
+dd. For students studying part-time.
 
 dt. Follow up study: study groups
 
@@ -23,6 +23,10 @@ dd. Open-ended self-organising study groups, for which we will provide support a
 dt. Testing new material: hack days
 
 dd. Day-long events, primarily to be used for testing new material for the course, to which graduates of the course can be invited. Perhaps one Saturday per month.
+  
+dt. Weekend hackathons
+
+dd. 48-hour events for creating complete applications, suitable for students who have covered all the core curriculum (or equivalent) and have completed a few hack days.
   
 </dl>
 
