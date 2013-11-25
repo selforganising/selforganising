@@ -24,6 +24,8 @@ I am very keen to get the challenges mentored by companies that have software in
 
 The general idea would be for a company to set a challenge at the start of the day (possibly by video) and then they would send a mentor to join the class at the end of the day to work with the students, see presentations and offer feedback.
 
+It will be an opportunity for companies to test out: the quality of their support documentation, the quality of their APIs, the ease with which relatively inexperienced coders can work with the those APIs, and to get feedback from users.
+
 h2. Prerequisites:
 * "Codecademy: Web projects":http://www.codecademy.com/tracks/projects
 * "Codecademy: Web Fundamentals":http://www.codecademy.com/tracks/web
