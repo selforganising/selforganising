@@ -18,17 +18,17 @@ h2. Thoughts about structure
 
 The course divides into three separate components: highly-structured online course material; one-day group challenges ("hack days"); and the final project.
 
-These components could easily be delivered separately, so that the core online material could be studied part-time over the course of several weeks with regular weekly meetups for support; the challenges could be organised as one-day "hack days", and the final project could be organised as weekend hackathons.
+These components could easily be delivered separately, so that the core online material could be studied part-time over the course of several weeks with regular weekly meetups for support; the challenges could be organised as one-day "hack days", and the final project could be organised as a weekend hackathon.
 
 h2. A note about pacing
 
-I may be out with the pace of the core curriculum. If this turns out to be the case, we may have to aave fewer challenges and a shorter final project. We will just have to play it by ear
+I may be out with the pace of the core curriculum. If this turns out to be the case, we may have to do fewer challenges and a shorter final project. We will just have to play it by ear.
 
 h2. Mentoring
 
-I am very keen to get the challenges mentored by companies that have software interfaces that they are keen for developers to work with. There are likely to be many candidate companies in the UK, aside from the obvious ones like, Google, Facebook and Twitter. There may be startups already in Collective that have an API that they would like us to try out.
+I am very keen to get the challenges mentored by companies that have software interfaces which they are keen for developers to work with. There are likely to be many candidate companies in London, aside from the obvious ones like, Google, Facebook and Twitter. There may be startups already in Collective that have an API that they would like us to try out.
 
-The general idea would be for a company to set a challenge for the day in the morning (possibly by video) and then they would join the class at the end of the day to work with the students, see presentations and offer feedback.
+The general idea would be for a company to set a challenge at the start of the day (possibly by video) and then they would send a mentor to join the class at the end of the day to work with the students, see presentations and offer feedback.
 
 h2. Prerequisites:
 * "Codecademy: Web projects":http://www.codecademy.com/tracks/projects
@@ -63,9 +63,7 @@ h3. Some proposed challenges
 * Find out about some functional programming idioms in Python and see if you can refactor any of your backend code using these idioms. Was it worth it?
 * Create a new course on Codecademy on a topic of your choice.
 
-I will probably use Matthew Russell's book, _"Mining the Social Web"_:http://www.amazon.co.uk/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU/ as a reference for some of the challenges.
-
-We would also invite people and organisations to submit their own challenges and, if possible, come in at the end of the day to discuss the challenge and their own work.
+I will probably use Matthew Russell's book, "_Mining the Social Web_":http://www.amazon.co.uk/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU/ as a reference for some of the challenges.
 
 Every time we run the course, we throw out the three or four least-liked projects and replace them with new ones.
 
