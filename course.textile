@@ -56,6 +56,8 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
+dd. Pairing is productive but exhausting. When you have had enough, put your headphones back on and return to working on your own for a while.
+
 dt. Code reviews
 
 dd. A code review is when two or more people look at and discuss a piece of code together after it has been written. 
