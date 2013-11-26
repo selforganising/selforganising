@@ -71,15 +71,15 @@ h2. Some ideas on curriculum development
   
 dt. Curriculum review meetings
 
-dd. Weekly meetings to discuss the course content. Open to "Coding the web" graduates.
+dd. Weekly meetings to discuss the course content. Open to "Coding the web" alumni.
 
-dt. Once-a-week evening study group
+dt. Part-time evening study group
 
-dd. For students studying part-time.
+dd. For students studying the two Udacity courses used in "Coding the web".
 
 dt. Follow up study: study groups
 
-dd. Open-ended self-organising study groups, for which we will provide support and space (presumably on one or two evenings of the week).
+dd. Open-ended self-organising study groups, on any topic, for which we will provide support and space (presumably on one or two evenings of the week).
 
 dt. Testing new material: hack days
 
