@@ -87,7 +87,7 @@ dd. Day-long events, primarily to be used for testing new material for the cours
   
 dt. Weekend hackathons
 
-dd. 48-hour events for creating complete applications, suitable for students who have covered all the core curriculum (or equivalent) and have completed a few hack days.
+dd. 48-hour events for working on bigger projects, suitable for students who have covered all the core curriculum (or equivalent) and have completed a few hack days.
   
 </dl>
 

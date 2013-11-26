@@ -34,6 +34,10 @@ dd. We can provide you with all the equipment you need, but if you have a laptop
 
 dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
+dt. The flipped classroom
+
+dd. Any lecture material that we use will be delivered online, so the role of the course tutor is to make sure that you have everything you need, to set challenges, to provide assistance in solving problems, and to support you to get through the course.
+
 dt. Working together
 
 dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Do not be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem helping some somebody else with it can be.
