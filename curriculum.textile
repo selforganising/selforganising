@@ -83,7 +83,7 @@ dd. Open-ended self-organising study groups, on any topic, for which we will pro
 
 dt. Testing new material: hack days
 
-dd. Day-long events, primarily to be used for testing new material for the course, to which graduates of the course can be invited. Perhaps one Saturday per month.
+dd. Day-long events, primarily to be used for testing new material for the course, to which alumni can be invited. Perhaps one Saturday per month.
   
 dt. Weekend hackathons
 
