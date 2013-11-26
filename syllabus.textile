@@ -6,7 +6,9 @@ linktext: syllabus
 standfirst: 
 ---
 
-This is a very demanding course that covers a lot of material in a very short space of time. It requires a very high level of commitment.
+This is a very demanding course that covers a lot of material in a very short space of time and requires a very high level of commitment.
+
+It is a full-time six-week course that is probably not suitable for someone who has significant work commitments.
 
 h3. By the end of the course, students should be able to:
 
