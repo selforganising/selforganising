@@ -8,6 +8,8 @@ standfirst:
 
 h3. Draft
 
+Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place on the course, we hope you are going to get as much from completing it as we have got out of preparing and expect to get out of delivering it for you.
+
 <dl>
   
 dt. Location
@@ -56,7 +58,7 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
-dd. Pairing is productive but exhausting. When you have had enough, put your headphones back on and return to working on your own for a while.
+dd. Pairing is productive, but exhausting. When you have had enough, put your headphones back on and return to working on your own for a while.
 
 dt. Code reviews
 
