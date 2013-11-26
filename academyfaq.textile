@@ -24,11 +24,11 @@ dd. The courses are for you if you are thinking about a career as a software dev
 
 dt. How much does it cost to attend Collective Academy?
 
-dd. Courses are currently free to individuals. We hope to keep it that way.
+dd. Courses are currently free to individuals. We hope to keep it that way--at least for most of our students.
 
-dt. I like the sound of this, but I cannot study full-time. Are you offering any other courses?
+dt. I cannot study full-time. Are you offering any other courses?
 
-dd. We will be. Please join our mailing list. We are concentrating on the full-time course for now, but we will be doing part-time versions of the course soon.
+dd. We will be. <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">Please join our mailing list</a>. We are concentrating on the full-time course for now, but we will be doing part-time versions of the course soon.
 
 dt. Are there any restrictions on who can apply to study at Collective Academy?
 
@@ -44,7 +44,7 @@ dd. You will join our alumni network. We will be developing a full programme of 
 
 dt. I want to work on my own startup idea after the course. Can you help?
 
-dd. Alumni of the Academy who are serious about starting their own business can get fast-track membership of Collective with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
+dd. Alumni of the Academy who are serious about starting their own business will get the opportunity to apply for membership of Collective with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
 
 </dl>
 
