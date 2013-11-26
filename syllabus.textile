@@ -30,4 +30,4 @@ h3. By the end of the course, students should be able to:
 * Have some familiarity with a variety of JavaScript libraries, such as AngularJS, Backbone and Underscore
 * Work as part of a project team, pair program and participate in code reviews
 * Understand agile principles and be able to do story-based project planning
-
+* Participate in a short group project from start to finish

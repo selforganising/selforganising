@@ -12,7 +12,7 @@ h3. Draft
   
 dt. Location
 
-dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/, at 159, Camden High Street, two minutes walk from Camden Town tube station.
+dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/ on Camden High Street, two minutes walk from Camden Town tube station.
 
 dt. Before you start
 
@@ -26,13 +26,15 @@ dd. The day officially starts at 9.30am with a study planning meeting. We recomm
 
 dt. Curriculum
 
-dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises. The second part of the course consists of a series of open-ended challenges and programming projects.
+dd. The first part of the course is made up of a core curriculum made up of a variety of structured online exercises. The second part of the course consists of a series of open-ended challenges and programming projects.
 
 dt. Equipment
 
 dd. We can provide you with all the equipment you need, but if you have a laptop computer, then we recommend that you bring it.
 
-dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work by for when you are not listening to lectures and do not want to be disturbed. 
+
+dd. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. The flipped classroom
 
@@ -64,7 +66,7 @@ dd. Code reviews usually happen when you have finished working on a piece of cod
 
 dd. Unlike pair programming, code reviews can involve more than two people, they do not often last very long and the reviewer does not usually get involved in the coding of a solution.
 
-dt. Core curriculum
+dt. Pacing
 
 dd. The pace at which we get through the core curriculum will depend on the pace of the whole group. In order to get the most out of the second part of the course, it is important that every member of the group has some familiarity with the material. So, if you find you are getting through the material faster than others, use some of your time to deepen your knowledge of topics you have already covered by pairing up with somebody who is still working through it for the first time.
 
@@ -92,7 +94,7 @@ dt. Etiquette
 
 dd. Treat everyone at Collective with kindness and respect. Do not make remarks that are likely to be offensive to others. No subtle sexism (or any "isms", for that matter). Do not put other people down. Do not attempt to justify yourself when your behaviour is challenged, just apologise and move on. 
 
-dd. Here are some put-downs to avoid: No feigning surprise, like "What?! I can't believe you don't know that?". No "Well-actually"s, as in "Well, actually, that's not the way you do it". No offering advice that hasn't been asked for.
+dd. Here are some put-downs to avoid: No feigning surprise, like _"What?! I can't believe you don't know that?"_. No _"Well-actually"_s, as in _"Well, actually, that's not the way you do it"_. No offering advice that hasn't been asked for.
 
 dt. Nourishment
 
