@@ -57,7 +57,7 @@ h3. Some proposed challenges
 * Find out about some functional programming idioms in Python and see if you can refactor any of your backend code using these idioms. Was it worth it?
 * Create a new course on Codecademy on a topic of your choice.
 
-I will probably use Matthew Russell's book, "_Mining the Social Web_":http://www.amazon.co.uk/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU/ as a reference for some of the challenges.
+I will probably also use Matthew Russell's book, "_Mining the Social Web_":http://www.amazon.co.uk/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU/ as a reference for one or two challenges.
 
 Every time we run the course, we throw out the three or four least-liked projects and replace them with new ones.
 
