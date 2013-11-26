@@ -24,7 +24,7 @@ dd. The courses are for you if you are thinking about a career as a software dev
 
 dt. How much does it cost to attend Collective Academy?
 
-dd. Courses are currently free to individuals. We hope to keep it that way--at least for most of our students.
+dd. Courses are currently free to individuals. We hope to keep it that way.
 
 dt. I cannot study full-time. Are you offering any other courses?
 
