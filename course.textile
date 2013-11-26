@@ -16,7 +16,7 @@ dd. This course is taking place at Collective Academy, where we will have our ow
 
 dt. Before you start
 
-dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not prerequisites for taking the course, but they will cover material that will be very helpful once we get started.
+dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not a prerequisite for taking the course, but they will cover material that will be very helpful once we get started.
 
 dd. If you have any questions, you should contact the course tutor, who will be happy to discuss any aspect of the course with you.
 
@@ -32,11 +32,11 @@ dt. Equipment
 
 dd. We can provide you with all the equipment you need, but if you have a laptop computer, then we recommend that you bring it.
 
-dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but They are also like hanging up a "Do Not Disturb" sign. You might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. Working together
 
-dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Don't be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem helping some somebody else with it can be.
+dd. You are encouraged to work together on problems. If you do not understand something, ask a fellow student for help. If somebody asks you for help with a problem, offer to pair program with them for a bit. Always start by giving them time to explain their understanding of the problem. Often just the act of explaining a problem can reveal the answer. Do not be too quick to provide what you think is the solution. Above all, treat another person’s questions as a learning experience for both of you. If you have not tried it before, it is surprising how useful to your own understanding of a problem helping some somebody else with it can be.
 
 dt.  Pair programming
 
@@ -44,7 +44,7 @@ dd. In pair programming, one person is at the keyboard typing code and the other
   
 dd. Pair programming is helpful because two people will together have fewer gaps in their knowledge than each of them separately, but just as importantly, talking about a problem as we are trying to solve it can have an extraordinary effect on our understanding of it. 
 
-dd. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Often, embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you don't suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in reaching a solution.
+dd. If you are not used to studying or working collaboratively, it can take a while to get used to pairing. Embarrassment at not knowing something or fear of appearing stupid can get in the way. It's worth the trouble of overcoming those feelings. And if you do not suffer these doubts, pairing is a good opportunity to learn some humility: the problem has not been solved until two people have understood it and had a part in reaching a solution.
 
 dd. Sometimes, even with two people, it is possible to get stuck. In that case, take a break. Have a cup of tea. Go for a walk. Do a bit of Google research or check Stack Overflow. Or close your eyes and try to visualise a solution. And then come back to the problem with a fresh perspective and some new ideas.
   
@@ -76,9 +76,7 @@ dd. Many of the challenges are somewhat open-ended, are provided without a lot o
 
 dd. We also encourage you to think about problems that you would like to propose yourself. Towards the end of the course, there will be time to work in groups on a project of your own choosing.
 
-dd. You don't have to bring your own project to work on and in some ways it is better if the projects emerge out of discussions between course participants, so that everyone on a project is equally committed to it. 
-
-dd. It is OK if you don't yet have any ideas for projects. In many ways, it is more important that you are willing to engage constructively with other people's project proposals. Usually, coming up with a good idea and being able to execute it well requires the committed input of more than one person.
+dd. You do not have to bring your own project to work on and in some ways it is better if the projects emerge out of discussions between course participants, so that everyone on a project is equally committed to it. 
 
 dd. Each challenge and each project will end with presentations and demos.
 
