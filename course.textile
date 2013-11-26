@@ -86,7 +86,7 @@ dd. We also encourage you to think about problems that you would like to propose
 
 dd. You do not have to bring your own project to work on and in some ways it is better if the projects emerge out of discussions between course participants, so that everyone on a project is equally committed to it. 
 
-dd. Each challenge and each project will end with presentations and demos.
+dd. Each challenge and each project will end with presentations and demonstrations.
 
 dt. Blogging
 

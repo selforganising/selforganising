@@ -23,10 +23,12 @@ h3. By the end of the course, students should be able to:
 * Understand the basics of cryptography and hashing for protecting user data
 * Understand about scaling and caching using memcached
 * Create and use APIs, publish and parse XML and JSON
+* Integrate services into an AppEngine application using Google's Python APIs
 * Integrate external services into a webpage
 * Create mashups of data from disparate sources and display them on a web page
 * Analyse and publish data collected from third-party sources
 * Use a front-end framework to build a responsive one-page website
 * Have some familiarity with a variety of JavaScript libraries, such as AngularJS, Backbone and Underscore
+* Register a domain and set up the DNS to point at a web address
 * Work as part of a project team, pair program and participate in code reviews
 * Understand agile principles and be able to do story-based project planning
