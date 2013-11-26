@@ -12,25 +12,27 @@ h3. Draft
   
 dt. Location
 
-dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/.
+dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/, at 159, Camden High Street, two minutes walk from Camden Town tube station.
 
 dt. Before you start
 
-dd. After you have accepted a place, we will provide you with some exercises to get you prepared for the course [ and we may run an induction session to answer your questions about the course and to get to know you].
+dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not prerequisites for taking the course, but they will cover material that will be very helpful once we get started.
+
+dd. If you have any questions, you should contact the course tutor, who will be happy to discuss any aspect of the course with you.
 
 dt. Timetable
 
-dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. You are welcome to continue working until 9pm [actually, I need to check this]. 
+dd. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. The day normally ends by 6pm.
 
 dt. Curriculum
 
-dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises. The second part of the course consists of a series of open-ended challenges and programming projects. 
+dd. The first part of the course is made up of a core curriculum made up of a variety of structured online teaching exercises. The second part of the course consists of a series of open-ended challenges and programming projects.
 
 dt. Equipment
 
-dd. All the equipment you need will be provided (although you are also welcome to bring your own).
+dd. We can provide you with all the equipment you need, but if you have a laptop computer, then we recommend that you bring it.
 
-dd. Aside from the computers, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). They are like hanging up a "Do Not Disturb" sign. You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
+dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but They are also like hanging up a "Do Not Disturb" sign. You might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work to for when you are not listening to lectures and do not want to be disturbed. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. Working together
 
