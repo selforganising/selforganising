@@ -8,7 +8,7 @@ standfirst: ""
 
 h3. Draft
 
-After many, many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology somehow to help create communities of learning. 
+After many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology somehow to help create communities of learning. 
 
 This led me, starting late in 2012, to start taking various online courses and then over the last year to become a serial organiser of "Coursera meetups":http://www.meetup.com/Coursera/London-GB/.
 
