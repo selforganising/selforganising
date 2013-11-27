@@ -3,8 +3,10 @@ layout: post
 title: "Introductory letter"
 category: info
 linktext:  "intro"
-standfirst: "What and why"
+standfirst: ""
 ---
+
+h3. Draft
 
 After many, many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology somehow to help create communities of learning. 
 
