@@ -18,13 +18,13 @@ dt. What courses are offered at Collective Academy?
 
 dd. The first cohort on our full-time 6-week _Coding the web_ course starts in January 2014.
 
-dt. Who are the courses suitable for?
+dt. Who is this course suitable for?
 
-dd. The courses are for you if you are thinking about a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects for fun or profit.
+dd. This course is for you if you are thinking about a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects for fun or profit.
 
 dt. How much does it cost to attend Collective Academy?
 
-dd. Courses are currently free to individuals. We hope to keep it that way.
+dd. Our _Coding the web_ course is currently free to individuals. We hope to keep it that way.
 
 dt. I cannot study full-time. Are you offering any other courses?
 
