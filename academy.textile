@@ -6,6 +6,7 @@ linktext:  "academy faq"
 standfirst: "About our courses at Collective Academy" 
 ---
 
+
 h3. Draft
 
 <dl>
