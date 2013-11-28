@@ -8,7 +8,7 @@ standfirst:
 
 h3. Draft
 
-Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from participating in it as we expect to get from offering it to you.
+Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from your participation as we expect to.
 
 <dl>
   
