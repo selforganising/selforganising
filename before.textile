@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Before we start"
+category: info
+linktext: before
+standfirst: ""
+---
+
+h3. draft
+
+h2. Pre-course assignment
+
+If you have any time spare between now and January 6th, please go to "Codecademy": and try out:
+
+* "Web Fundamentals":http://www.codecademy.com/tracks/web
+
+And if you are feeling adventurous:
+
+* "Codecademy: jQuery":http://www.codecademy.com/tracks/jquery
+* "Codecademy: Javascript":http://www.codecademy.com/tracks/javascript
+* "Codecademy: Projects":http://www.codecademy.com/tracks/projects
+
+None of this material is essential at the beginning of the course, but as it picks up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
+
+h2. Accounts
+
+Please set up accounts with the following services, if you have not done so already:
+
+* Gmail
+* Linkedin
+* Facebook
+* Twitter 
+* Github
+
+You may also want to follow "@selforganising":https://twitter.com/selforganising.
+
+h2. Equipment
+
+If you have your own laptop computer, please bring it. Otherwise, please let us know, and we will provide you with one for the duration of the course.
+
+h2. Questions
+
+If you have any doubts or questions, please do not hesitate to get in touch with the course tutor.
+
+
+
+ 
+
+
+
