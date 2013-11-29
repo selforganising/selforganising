@@ -16,19 +16,19 @@ dd. It is a collaboration between "Camden Town Unlimited":http://www.camdentownu
 
 dt. What courses are offered at Collective Academy?
 
-dd. The first cohort on the full-time 6-week _Coding the web_ course starts in January 2014. More courses are planned.
+dd. The first cohort on our full-time six-week _Coding the web_ course starts in January 2014.
 
-dt. Who are the courses suitable for?
+dt. Who is this course suitable for?
 
-dd. The courses are for you if you are thinking about a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects for fun or profit.
+dd. This course is for you if you are thinking about a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects for fun or profit.
 
 dt. How much does it cost to attend Collective Academy?
 
-dd. Courses are currently free to individuals. We hope to keep it that way.
+dd. Our _Coding the web_ course is currently free to individuals. We hope to keep it that way.
 
 dt. I cannot study full-time. Are you offering any other courses?
 
-dd. We will be. <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">Please join our mailing list</a>. We are concentrating on the full-time course for now, but we will be doing part-time versions of the course soon.
+dd. We are concentrating on the full-time course for now, but if you want to hear about new courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a>. 
 
 dt. Are there any restrictions on who can apply to study at Collective Academy?
 
@@ -36,15 +36,15 @@ dd. Anyone over the age of 18 can apply. Some applicants might get priority if t
 
 dt. What are the entry requirements?
 
-dd. There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated and committed to collaborative working. Coding also requires a certain stubbornness in the face of repeated failure that comes easier to some people than others.
+dd. There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 dt. What happens after a course ends?
 
-dd. You will join our alumni network. We will be developing a full programme of continuing education and events. We encourage you to self-organise into study groups, for which we will provide advice, support, space and mentoring. We want to help you achieve your educational, vocational and work goals, whatever they may be.
+dd. You will join our alumni network. We encourage you to self-organise into study groups, for which we will provide advice, support, space and mentoring. We will be developing a full programme of continuing education and events, to help you achieve your educational, vocational and work goals, whatever they may be.
 
 dt. I want to work on my own startup idea after the course. Can you help?
 
-dd. Alumni of the Academy who are serious about starting their own business will get the opportunity to apply for membership of Collective with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
+dd. Alumni of the Academy who are serious about starting their own business are encouraged to apply for membership of Collective with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
 
 </dl>
 
