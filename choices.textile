@@ -28,7 +28,7 @@ There were three other serious application choices for this course:
 
 *Ruby on Rails*, which currently offers a number of job opportunities and is used by many startups, but requires learning a number of application-specific skills and involves a fair bit of "magic", which will not help students learn general principles. For somebody that wants a career as a Rails developer, there are other schools that offer suitable training.
 
-*PHP*, which many years ago became the default server-side language for countless small websites, many of which have since grown very large. It is more-or-less ubiquitous on most hosting services and is good For implementing simple server-side behaviour and for some more complex thnigs, too, but it is not a general-purpose programming language, and I am not that keen on using it for teaching people how to program. It's useful for getting WordPress jobs, though.
+*PHP*, which many years ago became the default server-side language for countless small websites, many of which have since grown very large. It is more-or-less ubiquitous on most hosting services and is good for implementing simple server-side behaviour and for some more complex things, too, but it is not a general-purpose programming language, and I am not that keen on using it for teaching people how to program. It's useful for getting WordPress jobs, though.
 
 h2. Chromebooks
 

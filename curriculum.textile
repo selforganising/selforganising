@@ -71,7 +71,7 @@ h2. Some ideas on curriculum development
   
 dt. Curriculum review meetings
 
-dd. Weekly meetings to discuss the course content. Open to "Coding the web" alumni.
+dd. Monthly meetings to discuss the course content. Open to "Coding the web" alumni. I am also in the early stages of gathering "faculty" members, i.e. anyone who is interested in helping out.
 
 dt. Part-time evening study group
 
