@@ -32,13 +32,11 @@ There were three other serious application choices for this course:
 
 h2. Chromebooks
 
-We might have struggled twelve months ago to do _everything_ in a web browser, but the launch of the public beta of *nitrous.IO* (which has some nice hooks into AppEngine) early in 2013 makes it feasible. 
-
-We may still need to work around a few things and more research is needed, but I think it's probably viable.
+We might have struggled twelve months ago to do _everything_ in a web browser, but the launch of the public beta of *nitrous.IO* (which has some nice hooks into AppEngine and GitHub) early in 2013 makes it feasible.
 
 It means that we can provide entry-level development machines cheaply.
 
-The HP Chromebook 11's look like they are going to be perfect little development machines, especially if they are hooked up to larger monitors for pairing sessions.
+The new HP Chromebook 14's look like they are going to be perfect little development machines.
 
 
 

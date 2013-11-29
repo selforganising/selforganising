@@ -24,7 +24,7 @@ dd. If you have any questions, you should contact the course tutor, who will be 
 
 dt. Timetable
 
-dd. The Academy is open Monday to Friday. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 5pm. The day normally ends by 6pm.
+dd. The Academy is open Monday to Friday. The day officially starts at 9.30am with a study planning meeting. We recommend you get in well before then. Reviews and presentations are at 4.30pm. The day normally ends by 6pm.
 
 dt. Curriculum
 
@@ -34,13 +34,13 @@ dt. Equipment
 
 dd. We can provide you with all the equipment you need, but if you have a laptop computer, then we recommend that you bring it.
 
-dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists of your favourite music to work by for when you are not listening to lectures and do not want to be disturbed. 
+dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists for when you are not listening to lectures and do not want to be disturbed. 
 
 dd. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. The flipped classroom
 
-dd. Any lectures that we use will be delivered using online material that each student can follow at their own speed, so the role of the course tutor is to set the curriculum, to make sure that you have everything you need, to provide expert advice and to support you throughout the course.
+dd. Any lectures that we use will be delivered using online material that each student can follow at their own speed. The role of the course tutor is to set the curriculum, to make sure that you have everything you need, to provide expert advice and to support you throughout the course.
 
 dt. Working together
 
@@ -58,7 +58,7 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
-dd. Pairing is productive, but exhausting. When you have had enough, put your headphones back on and return to working on your own for a while.
+dd. Pairing is productive, but exhausting. When you have had enough, feel free to put your headphones back on and return to working on your own for a while.
 
 dt. Code reviews
 
