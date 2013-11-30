@@ -6,6 +6,10 @@ linktext: syllabus
 standfirst: 
 ---
 
+h3. Draft
+
+_November 30, 2013_
+
 This is a very demanding course that covers a lot of material in a very short space of time and requires a very high level of commitment.
 
 It is a full-time six-week course that is probably not suitable for someone who has any other significant commitments, especially if they have no previous programming experience.

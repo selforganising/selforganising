@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "The course FAQ"
+title: "The course Guide"
 category: info
-linktext:  "course faq"
+linktext:  "course guide"
 standfirst:
 ---
-
-h3. Draft
-
 Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from your participation as we intend to.
 
 <dl>

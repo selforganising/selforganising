@@ -6,7 +6,7 @@ linktext:  "intro"
 standfirst: ""
 ---
 
-_November 27, 2013_
+_November 30, 2013_
 
 After many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology somehow to help create communities of learning. 
 

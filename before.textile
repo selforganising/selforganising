@@ -6,11 +6,9 @@ linktext: before
 standfirst: ""
 ---
 
-h3. draft
-
 h2. Pre-course assignment
 
-If you have any time spare between now and January 6th, please go to "Codecademy": and try out:
+If you have any time spare between now and January 6th, please go to _Codecademy_: and try out:
 
 * "Web Fundamentals":http://www.codecademy.com/tracks/web
 
@@ -20,11 +18,11 @@ And if you are feeling adventurous:
 * "Codecademy: Javascript":http://www.codecademy.com/tracks/javascript
 * "Codecademy: Projects":http://www.codecademy.com/tracks/projects
 
-None of this material is essential at the beginning of the course, but as it picks up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
+None of this material is essential at the beginning of the course, but as wet pick up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
 
 h2. Accounts
 
-Please set up accounts with the following services, if you have not done so already:
+Please set up accounts with the following services, if you have not already done so:
 
 * Gmail
 * Linkedin
@@ -32,7 +30,7 @@ Please set up accounts with the following services, if you have not done so alre
 * Twitter 
 * Github
 
-You may also want to follow "@selforganising":https://twitter.com/selforganising.
+You may also want to follow "@selforganising":https://twitter.com/selforganising, to which we have started posting interesting or relevant links.
 
 h2. Equipment
 
@@ -40,7 +38,7 @@ If you have your own laptop computer, please bring it. Otherwise, please let us 
 
 h2. Questions
 
-If you have any doubts or questions, please do not hesitate to get in touch with the course tutor.
+Please, if you have any doubts or questions, do not hesitate to <a href="mailto:academy@selforganising.org" target="_blank">get in touch</a>.
 
 
 
