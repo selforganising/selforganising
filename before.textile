@@ -8,7 +8,7 @@ standfirst: ""
 
 h2. Pre-course assignment
 
-If you have any time spare between now and the start of the course, please go to _Codecademy_: and try out:
+If you have any time spare between now and the start of the course, please go to _Codecademy_ and try out:
 
 * "Web Fundamentals":http://www.codecademy.com/tracks/web
 
@@ -18,7 +18,7 @@ And if you are feeling adventurous:
 * "Javascript":http://www.codecademy.com/tracks/javascript
 * "Projects":http://www.codecademy.com/tracks/projects
 
-None of this material is essential at the beginning of the course, but as wet pick up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
+None of this material is essential at the beginning of the course, but as we pick up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
 
 If you find yourself having difficulty with any of the material or want to discuss it, please <a href="mailto:academy@selforganising.org" target="_blank">get in touch</a>. 
 
@@ -36,7 +36,7 @@ You may also want to follow "@selforganising":https://twitter.com/selforganising
 
 h2. Equipment
 
-If you have your own laptop computer, please bring it. Otherwise, please let us know, and we will provide you with one for the duration of the course.
+If you have your own laptop computer, please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know</a>, and we will provide you with one for the duration of the course.
 
 h2. Questions
 
