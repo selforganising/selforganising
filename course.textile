@@ -9,13 +9,19 @@ Here at Collective Academy, we are extraordinarily excited about offering this c
 
 <dl>
   
+dt. Before you start
+
+dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not a prerequisite for taking the course, but they will cover material that will be very helpful once we get started.
+
+dt. Workload
+
+dd. This is a very demanding full-time six-week course that covers a lot of material in a very short space of time and requires a very high level of commitment. It is probably not suitable for someone who has any other significant commitments, especially if they have no previous programming experience.
+
+
 dt. Location
 
 dd. This course is taking place at Collective Academy, where we will have our own classroom on the first floor of "C/159":http://camdencollective.co.uk/159-2/ on Camden High Street, two minutes walk from Camden Town tube station.
 
-dt. Before you start
-
-dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not a prerequisite for taking the course, but they will cover material that will be very helpful once we get started.
 
 dd. If you have any questions, you should contact the course tutor, who will be happy to discuss any aspect of the course with you.
 
