@@ -5,7 +5,7 @@ category: info
 linktext:  "course guide"
 standfirst:
 ---
-Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from your participation as we intend to.
+Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from participating in it as we do.
 
 <dl>
   
