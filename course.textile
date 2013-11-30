@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The course guide"
+title: "Coding the web: course guide"
 category: info
 linktext:  "course guide"
 standfirst:
