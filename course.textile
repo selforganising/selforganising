@@ -5,18 +5,17 @@ category: info
 linktext:  "course guide"
 standfirst:
 ---
-Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from participating in it as we will.
+Here at Collective Academy, we are extraordinarily excited about offering this course. If you have accepted a place, we hope you get as much from participating in it as we are going to.
 
 <dl>
   
-dt. Before you start
-
-dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not a prerequisite for taking the course, but they will cover material that will be very helpful once we get started.
-
 dt. Workload
 
 dd. This is a very demanding full-time six-week course that covers a lot of material in a very short space of time and requires a very high level of commitment. It is probably not suitable for someone who has any other significant commitments, especially if they have no previous programming experience.
 
+dt. Before you start
+
+dd. After you have accepted a place, we will provide you with some exercises to help get you started. These are not compulsory and are not a prerequisite for taking the course, but they will cover material that will be very helpful once we get started.
 
 dt. Location
 
