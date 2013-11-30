@@ -3,10 +3,8 @@ layout: post
 title: Collective Academy FAQ
 category: info
 linktext:  "academy faq"
-standfirst: "About our courses at Collective Academy" 
+standfirst: "" 
 ---
-
-h3. Draft
 
 <dl>
 
