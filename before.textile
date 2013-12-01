@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Before we start"
+title: "Coding the web: Before we start"
 category: info
 linktext: before
 standfirst: ""
