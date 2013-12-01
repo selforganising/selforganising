@@ -8,7 +8,7 @@ standfirst: ""
 
 _November 30, 2013_
 
-After many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology as a tool for learning. 
+After many years of writing software and building websites, and latterly working on the websites of the London 2012 Games, I started playing around again with the idea of using technology as a tool for learning. 
 
 This led me, starting late in 2012, to start taking various online courses and then over the last year to become a serial organiser of "Coursera meetups":http://www.meetup.com/Coursera/London-GB/.
 
