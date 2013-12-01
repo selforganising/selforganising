@@ -11,6 +11,7 @@ h2. Pre-course assignment
 If you have any time spare between now and the start of the course, please go to _Codecademy_ and try out:
 
 * "Web Fundamentals":http://www.codecademy.com/tracks/web
+* "Python":http://www.codecademy.com/tracks/python
 
 And if you are feeling adventurous:
 
@@ -18,7 +19,7 @@ And if you are feeling adventurous:
 * "Javascript":http://www.codecademy.com/tracks/javascript
 * "Projects":http://www.codecademy.com/tracks/projects
 
-None of this material is essential at the beginning of the course, but as we pick up speed, you will need to become familiar with HTML, JavaScript and JQuery, so if you make a start beforehand, you will have less work to do in January.
+None of this material is essential to know beforehand, but if you are familiariar with it, you will find it easier to keep up once we start.
 
 If you find yourself having difficulty with any of the material or want to discuss it, please <a href="mailto:academy@selforganising.org" target="_blank">get in touch</a>. 
 
