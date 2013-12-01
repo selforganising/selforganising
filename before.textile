@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coding the web: Before we start"
+title: "Coding the web: before we start"
 category: info
 linktext: before
 standfirst: ""
@@ -32,7 +32,7 @@ If you do not already have them, Please set up accounts with the following servi
 * Twitter 
 * Github
 
-You may also want to follow "@selforganising":https://twitter.com/selforganising, to which we have started posting interesting or relevant links.
+You may also want to follow "@selforganising":https://twitter.com/selforganising, to which we will post various links that you might find interesting.
 
 h2. Equipment
 

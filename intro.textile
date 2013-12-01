@@ -8,22 +8,21 @@ standfirst: ""
 
 _November 30, 2013_
 
-After many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology somehow to help create communities of learning. 
+After many years of writing software and building websites, and latterly working for several years on the websites of the London 2012 Games, I started playing around again with the idea of using technology as a tool for learning. 
 
 This led me, starting late in 2012, to start taking various online courses and then over the last year to become a serial organiser of "Coursera meetups":http://www.meetup.com/Coursera/London-GB/.
 
 One of the courses I took was the excellent "Startup Engineering":https://www.coursera.org/course/startup from Stanford. Unlike other meetups, which have all taken place in the public areas of the British Library on Euston Road, I switched this one to the "Collective":http://camdencollective.co.uk/hubs/ incubator space in Camden Town.
 
-Taking Startup Engineering made me realise that I didn't so much want to build software to create learning communities as to create learning communities for building software. And out of that realisation came the idea for Collective Academy.
+Taking this course made me realise that I didn't so much want to build software to create learning communities as to create learning communities for building software. And out of that realisation came the idea for Collective Academy.
 
 The singular approach we are taking with the Academy comes from several sources.
 
 For a start, the remit of Collective is to improve the business environment in Camden by providing incubation space for young startups and by helping young people find work in the area, so the Academy needs to be accessible to young local people and to be affordable.
 
-But the Collective workspace is already full of very talented, very hard-working young people running some very creative businesses, so the Academy also needs to reflect that quality and creativity.
+Also, the Collective workspace is full of very talented, very hard-working young people running some very creative businesses, so the Academy also needs to reflect that quality and creativity.
 
-Then, the Academy needs to reflect my own interests and skills. Over the last 
-year I have experienced the power of combining online with peer-supported learning. And I see the Academy as taking advantage of that combination to create a high-quality learning environment.
+Then, the Academy needs to reflect my own interests and skills. Over the last year I have experienced the power of combining online with peer-supported learning. And I see the Academy as taking advantage of that combination to create a high-quality learning environment.
 
 Finally, it has become obvious to me over the last year of organising meetups that I am not the only person in London who has a real hunger to better understand the software that we daily become more dependent on in almost every aspect of our lives.
 
