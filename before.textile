@@ -36,7 +36,7 @@ You may also want to follow "@selforganising":https://twitter.com/selforganising
 
 h2. Equipment
 
-If you have your own laptop computer, please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know</a>, and we will provide you with one for the duration of the course.
+If you have your own laptop computer (either a Mac or a PC), please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know</a>, and we will provide you with a computer for the duration of the course.
 
 h2. Questions
 
