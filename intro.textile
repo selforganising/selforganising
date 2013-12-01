@@ -24,7 +24,7 @@ Also, the Collective workspace is full of very talented, very hard-working young
 
 Then, the Academy needs to reflect my own interests and skills. Over the last year I have experienced the power of combining online with peer-supported learning. And I see the Academy as taking advantage of that combination to create a high-quality learning environment.
 
-Finally, it has become obvious to me over the last year of organising meetups that I am not the only person in London who has a real hunger to better understand the software that we daily become more dependent on in almost every aspect of our lives.
+Finally, it has become obvious to me over the last year of organising meetups that I am not the only person in London who has a real hunger to better understand "the technology that is eating the world":http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460.
 
 So, there it is. The aim of Collective Academy is to provide the ideal environment for sufficiently-motivated people to learn to develop software together.
 
