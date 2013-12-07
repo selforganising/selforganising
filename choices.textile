@@ -6,13 +6,23 @@ linktext: technology
 standfirst:  
 ---
 
-h2. Google AppEngine
+h2. Application platforms
+
+*PHP* is a language designed exclusively for building websites that has for many years been the default server-side language for countless small websites, many of which have over time grown very large (like Wikipedia). It is more-or-less ubiquitous on most hosting services and, on web sites made up of conventional pages, is good for implementing simple server-side behaviour, and for some more complex things, too. WordPress, which is by a wide margin the most popular software for managing websites, is written in PHP.
+
+*Ruby on Rails* is a web application framework that is best used for accessing and updating content in a relational database through a website structured around a series of pages that reflect the underlying data structures. Sites built in Rails include Yellow Pages and GitHub and any number of social networking sites and company intranets, which has led to it becoming perhaps the most widely used framework for building these sorts of websites.
+
+*node.js* is a software platform for building network applications that is often a good choice where data is being collected and published in a potentially continuous stream, such as for online chat or multi-user gaming. It is also good for creating simple web-based data APIs. It has the advantage of being written in JavaScript, so the same language is used for both on the fonrt-end and the back-end.
+
+*App Engine* is an application platform and hosting service that is good for applications that do not necessarily fit into a straight-forward content publishing model, such as content aggregating (TweetDeck) or data analysis (Guardian Open Platform) or online games (SongPop, PokeBuddy) or content sharing (SnapChat) or education (Khan Academy, Udacity), where content may be collected from a variety of different sources and delivered to users in a variety of different ways or where a lot of data is being collected from users as they interact with the application.
+
+None of these technologies are exactly comparable and indeed PHP can be run on Google App Engine, so they are not mutually exclusive either, but, broadly speaking, they represent four plausible choices available to a would-be web developer.
+
+h2. Google App Engine
 
 Google AppEngine is the application service used in Steve Huffman's course on Web Development and the choice to use AppEngine is wrapped up with the choice to use that course as a major component of this course. 
 
 As an educational tool, it's really pretty good. It probably offers the quickest route to understanding how to implement and deploy most of the key components of a web application. It is free for small-scale use. And it is suitable for building large-scale, high-traffic  websites, so can be used for real projects of any size--which is presumably why Steve Huffman chose it (although given Sebastian Thrun's association with Google, there were quite possibly other reasons).
-
-Also, increasingly, web application development is taking place on the client side, so the question of which server-side technology to use is for many applications becoming less critical (although still important). Understanding the concepts, being able to apply them quickly, and easy integration with different services are the priorities for this course.
 
 h2. Python
 
@@ -21,14 +31,6 @@ The choice of Python as the server-side language is determined by it being the l
 It's big disadvantage is that it is not Javascript, which needs to be learnt for the client side.
 
 This does mean that students will have to learn two languages (as well as the basics of HTML and CSS) in the short time that we have available, but I don't see any easy ways round that.
-
-There were three other serious application choices for this course:
-
-*node.js*, which is of course becoming widespread for building real-time and collaborative apps, but is not an easy platform to learn programming on for the first time. If Google had some node.js-like service running on top of V8 on AppEngine, then I might have been tempted to go with that.
-
-*Ruby on Rails*, which currently offers a number of job opportunities and is used by many startups, but requires learning a number of application-specific skills and involves a fair bit of "magic", which will not help students learn general principles. For somebody that wants a career as a Rails developer, there are other schools that offer suitable training.
-
-*PHP*, which many years ago became the default server-side language for countless small websites, many of which have since grown very large. It is more-or-less ubiquitous on most hosting services and is good for implementing simple server-side behaviour and for some more complex things, too, but it is not a general-purpose programming language, and I am not that keen on using it for teaching people how to program. It's useful for getting WordPress jobs, though.
 
 h2. Chromebooks
 
