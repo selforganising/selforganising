@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Notes about technology choices"
+title: "Notes about web technology choices"
 category: info
 linktext: technology
 standfirst:  
 ---
 
-h2. Application platforms
-
 *PHP* is a language designed exclusively for building websites that has for many years been the default server-side language for countless small websites, many of which have (like Wikipedia) grown very large. It is more-or-less ubiquitous on most hosting services. On web sites made up of conventional pages, it is very good for adding simple server-side behaviour, and can be used for for more complex applications, too. WordPress, which is by a wide margin the most popular software for managing websites, is written in PHP, as is much of Facebook.
 
-*Ruby on Rails* is a web application framework that is usually used for websites which are structured around pages that broadly reflect the structure of some underlying content, such as a code repository (GitHub) or a business directory (Yellow Pages) or a social network (Yammer) or a digital library (Scribd) or an online store (Shopify) or a project management tool (Basecamp). There are a lot of websites that answer to this broad description, which has led to it becoming perhaps the most widely used framework for building these sorts of websites.
+*Ruby on Rails* is a web application framework that is usually used for websites which are structured around pages that broadly reflect the structure of some underlying content, such as a code repository (GitHub) or a business directory (Yellow Pages) or a social network (Yammer) or a digital library (Scribd) or an online store (Shopify) or a project management tool (Basecamp). There are a lot of websites that answer to this broad description, which has led to Rails becoming perhaps the most widely used framework for building these sorts of websites.
 
 *node.js* is a software platform for building network applications that is often a good choice where data is being collected and published in a potentially continuous stream, such as for online chat or multi-user gaming. It is also good for creating simple web-based data APIs. It has the advantage of being written in JavaScript, the lingua franca of the Web. Node.js is a "platform", not a "framework", so it offers fewer higher-level abstractions than, say, Rails and generally requires more development effort in contexts for which a framework might be suitable. 
 
-*App Engine* is an application platform and hosting service that is good for applications that do not necessarily fit into a straight-forward content publishing model, such as content aggregating (TweetDeck) or data analysis (Guardian Open Platform) or online games (SongPop, PokeBuddy) or content sharing (SnapChat) or education (Khan Academy, Udacity), where content may be collected from a variety of different sources and delivered to users in a variety of different ways or where a lot of data is being collected from users as they interact with the application. App Engine offers relatively easy integration with a number of Google services, including data storage, search, email, authentication and caching, making it a plausible route both for building web applications and also for learning about how to build them.
+*App Engine* is an application platform and hosting service that is good for applications that do not necessarily fit into a straight-forward content publishing model, such as content aggregating (TweetDeck) or data analysis (Guardian Open Platform) or online games (SongPop, PokeBuddy) or content sharing (SnapChat) or education (Khan Academy, Udacity), where content may be collected from a variety of different sources and delivered to users in a variety of different ways or where a lot of data is being collected from users as they interact with the application. App Engine offers relatively easy integration with a number of Google services, including data storage, search, email, authentication and caching, making it a plausible route both for quickly building web applications and also for learning about how to build them.
 
 None of these technologies are exactly comparable and indeed PHP can be run on Google App Engine, so they are not mutually exclusive either, but they probably represent the most likely choices across a wide range of applications.
 
