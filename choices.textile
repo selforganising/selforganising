@@ -5,7 +5,6 @@ category: info
 linktext: technology
 standfirst:  
 ---
-
 *PHP* is a language designed exclusively for building websites that has for many years been the default server-side language for countless small websites, many of which have (like Wikipedia) grown very large. It is more-or-less ubiquitous on most hosting services. On web sites made up of conventional pages, it is very good for adding simple server-side behaviour, and can be used for for more complex applications, too. WordPress, which is by a wide margin the most popular software for managing websites, is written in PHP, as is Drupal (another widely-used CMS) and much of Facebook.
 
 *Ruby on Rails* is a web application framework that is usually used for websites which are structured around pages that broadly reflect the structure of some underlying content, such as a code repository (GitHub) or a business directory (Yellow Pages) or a social network (Yammer) or a digital library (Scribd) or an online store (Shopify) or a project management tool (Basecamp). There are a lot of websites that answer to this broad description, which has led to Rails becoming perhaps the most widely used framework for building these sorts of websites.
