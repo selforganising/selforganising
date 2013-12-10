@@ -1,4 +1,4 @@
-0;276;0c---
+---
 layout: post
 title: "Notes about web technology choices"
 category: info
