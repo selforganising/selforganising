@@ -36,13 +36,13 @@ dd. In the first week, try to go through the first few in-lesson exercises on yo
 
 dd. As you work through the Problem Sets, keep an eye out for anyone looking for an opportunity to pair program. As well as offering to pair on a problem that you have already worked on, you may also find it useful to pair on a problem that is new to both of you.
 
-dd. If you are already familiar with Python (or are a quick learner), the optional problem sets mean you are unlikely to run out of material.
+dd. If you are already familiar with Python (or are a quick learner), the optional problem sets mean that you are unlikely to run out of material.
 
 dd. Also, remember that pairing on a problem that you have already completed can be as useful to you as to the person you are pairing with. Communicating ideas that you have just yourself learnt is a very good way of deepening your understanding.
 
 </dl>
 
-_Good luck_
+_Buon viaggio!_
 
 
 
