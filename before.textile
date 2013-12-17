@@ -19,7 +19,7 @@ And if you are feeling adventurous:
 * "Javascript":http://www.codecademy.com/tracks/javascript
 * "Projects":http://www.codecademy.com/tracks/projects
 
-None of this material is essential to know beforehand, but if you are familiariar with it, you will find it easier to keep up once we start.
+None of this material is essential to know beforehand, but if you are familiar with it, you will find it easier to keep up once we start.
 
 If you find yourself having difficulty with any of the exercises or want to discuss any aspect of your preparation, please <a href="mailto:academy@selforganising.org" target="_blank">get in touch</a>. 
 
