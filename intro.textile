@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: info
 title: "Introductory letter"
-category: info
 linktext:  "intro"
 standfirst: ""
 ---

@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: info
 title: "Curriculum development"
-category: info
-linktext:  "development"
 standfirst: "Some notes about the curriculum"
 ---
 
