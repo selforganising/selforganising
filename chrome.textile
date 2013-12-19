@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Coding the web: chrome extensions"
+category: info
+linktext: 
+standfirst: ""
+---
+
+Nitrous.IO
+Your Development Environment in the Cloud 
+
+Strict Workflow
+Enforces a 25min/5min workflow: 25 minutes of distraction-free work, followed by 5 minutes of break. Repeat as necessary.
+
+Udacity Playback Rate
+Control playback rate of Udacity videos. 
+
