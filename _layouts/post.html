@@ -35,9 +35,11 @@
 
         {{ content }}
         
+	{% if page.author %}
 	<p>
 	  <em>{{ page.author }}, {{ page.date | date: "%e %B %Y" }}.</em>
 	</p>
+	{% endif %}
         
 	<div class="icons">
           <a href="http://www.meetup.com/selforganising/" target="_blank"><img src="/images/meetup.png" alt="Meetup"></a>
