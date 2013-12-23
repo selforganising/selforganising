@@ -6,7 +6,11 @@ standfirst: ""
 
 h2. Pre-course assignment
 
-If you have any time spare between now and the start of the course, please go to _Codecademy_ and try out:
+Read the *"course guide":course.html*.
+
+Note: If you have a little or no programming experience, then please do *attempt all of the material below before the start of the course* and don't forget to sign up for Gmail, Linkedin, Facebook, Github and Twitter (and follow @selforganising).
+
+Please go to _Codecademy_ and try out:
 
 * "Web Fundamentals":http://www.codecademy.com/tracks/web
 * "Python":http://www.codecademy.com/tracks/python
@@ -35,7 +39,7 @@ You may also want to follow "@selforganising":https://twitter.com/selforganising
 
 h2. Equipment
 
-If you have your own laptop computer (either a Mac or a PC), please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know</a>, and we will provide you with a computer for the duration of the course.
+If you have your own laptop computer (either a Mac or a PC), please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know</a>, and we will provide you with a computer for the duration of the course. You will also need a pair of earphones.
 
 h2. Questions
 

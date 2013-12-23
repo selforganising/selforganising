@@ -30,15 +30,15 @@ dd. The first part of the course is made up of a core curriculum made up of a va
 
 dt. Equipment
 
-dd. We can provide you with all the equipment you need, but if you have a laptop computer, then we recommend that you bring it.
+dd. You will need to bring your own laptop computer with a Chrome web browser installed. If you do not have your own laptop, we may be able to provide you with one, but you need to let us know in advance.
 
-dd. Aside from a computer, headphones are perhaps the most important tool you will need (we can provide some, if you do not have a pair). You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists for when you are not listening to lectures and do not want to be disturbed. 
+dd. Aside from a computer, earphones are perhaps the most important tool you will need. You will need them for listening to lecture material, but you might also want to get yourself a Spotify or Google Play account and make some playlists for when you are not listening to lectures and do not want to be disturbed. 
 
 dd. But, remember to strike a balance. You will be spending a good part of your day pair programming, doing code reviews, working in groups and discussing your work with others.
 
 dt. The flipped classroom
 
-dd. Any lectures that we use will be delivered using online material that each student can follow at their own speed. Lectures will otherwise be kept to a minimum. This course is hands-on and practical. The role of the course tutor is to make sure that you have everything you need, to provide expert advice and to support you throughout the course.
+dd. Any lectures that we use will be delivered using online material that each student can follow at their own speed. Lectures will otherwise be kept to a minimum. This course is hands-on and practical.
 
 dt. Pacing
 
@@ -60,7 +60,7 @@ dd. Sometimes, even with two people, it is possible to get stuck. In that case, 
   
 dd. Perhaps you might find pairing with one person particularly productive, but make a point of pairing, at different times, with everyone in the room. It's a great way of getting a different point of view and seeing how different people think about a problem.
 
-dd. Pairing is productive, but exhausting. When you have had enough, feel free to put your headphones back on and return to working on your own for a while.
+dd. Pairing is productive, but exhausting. When you have had enough, feel free to put your earphones back on and return to working on your own for a while.
 
 dt. Code reviews
 
@@ -74,7 +74,7 @@ dd. Unlike pair programming, code reviews can involve more than two people, they
 
 dt. Self-organising study
 
-dd. In the latter part of the course we are going to be spending more time on some open-ended challenges. Some of these will be provided by our partners, our sponsors and by Collective members.
+dd. In the latter part of the course we are going to be spending more time on some open-ended challenges.
 
 dd. We encourage you to organise yourselves for each challenge into small groups of three or four and to divide up tasks between you.
 
