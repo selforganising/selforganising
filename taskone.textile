@@ -33,7 +33,7 @@ dt. Pair programming
 
 dd. In the first week, try to go through the first few in-lesson exercises on your own and if you do not understand something, view the answer and try again. When you have finished a lesson, but before you have started on a problem set, check to see if anyone who is still working through the lesson would like to pair program with you on any of the exercises.
 
-dd. As you work through the problem sets, keep an eye out for anyone looking for an opportunity to pair program. As well as offering to pair on a problem that you have already worked on, you may also find it useful to pair on a problem that is new to both of you.
+dd. As you work through the problem sets, keep an eye out for anyone looking for an opportunity to pair program. As well as offering to pair on a problem that you have already worked on, you may also find it useful to pair on a problem that is new to you.
 
 dd. If you are already familiar with Python or are making fast progress, the optional problem sets mean that you are unlikely to run out of material.
 
