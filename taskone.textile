@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: task
 title: "Coding the web: Task One"
 category:
 linktext:  ""
@@ -10,7 +10,7 @@ standfirst: "Learn Python"
   
 dt. The task
 
-dd. To learn the fundamentals of computer science and enough Python to move onto the next task.
+dd. To learn the fundamentals of computer science and enough Python to move onto the next task using Udacity's "Introduction to Computer Science":https://www.udacity.com/course/cs101.
 
 dt. Time required
 
@@ -18,17 +18,16 @@ dd. Two weeks
 
 dt. The materials
 
-dd. Udacity's Introduction to Computer Science. 
+dd. A web browser (Chrome is recommended).
 
 dt. Timetable
-
 
 * Week 1: Lessons 1-5.
 * Week 2: Lesson 6-11, including the exam after Lesson 7, and Lesson 8 (which is a "mini-unit").
 
 dd. We are going to aim to complete one lesson per day (and fit Lesson 8 in between days). Lessons 1-6 are each followed by a problem set and also an optional problem set. 
 
-dd. Because of the amount of material that we have to get through, it is probably more important that we try to keep to the schedule than that we complete every problem. In the second week there are fewer problem sets, but the lessons get more challenging.
+dd. It is important that we have all mastered the material in each lesson before moving onto the next lesson.
 
 dt. Pair programming
 
@@ -36,9 +35,17 @@ dd. In the first week, try to go through the first few in-lesson exercises on yo
 
 dd. As you work through the problem sets, keep an eye out for anyone looking for an opportunity to pair program. As well as offering to pair on a problem that you have already worked on, you may also find it useful to pair on a problem that is new to both of you.
 
-dd. If you are already familiar with Python (or are a quick learner), the optional problem sets mean that you are unlikely to run out of material.
+dd. If you are already familiar with Python or are making fast progress, the optional problem sets mean that you are unlikely to run out of material.
 
 dd. Also, remember that pairing on a problem that you have already completed can be as useful to you as to the person you are pairing with. Communicating ideas that you have just yourself learnt is a very good way of deepening your own understanding.
+
+dt. Time management
+
+dd. Study without distractions and take regular breaks. Try the "Strict Workflow Chrome extension":https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd?hl=en, which follows the "Pomodoro Technique":http://en.wikipedia.org/wiki/Pomodoro_Technique. Please share any study methods that work better for you with the rest of us.
+
+dt. Daily review
+
+dd. The daily review is at 4pm. You are welcome to continue studying afterwards, but don't work yourself into the ground. Give yourself time in the evenings to recuperate.
 
 </dl>
 
