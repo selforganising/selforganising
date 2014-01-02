@@ -12,7 +12,7 @@ author: DS
 
 *App Engine* is an application platform and hosting service (Platform as a Service or "PaaS") that is good for applications that do not necessarily fit into a conventional web content publishing model, such as content aggregating (TweetDeck) or data analysis (Guardian Open Platform) or online games (SongPop, PokeBuddy) or content sharing (SnapChat) or education (Khan Academy, Udacity), where content may be collected from a variety of different sources and delivered to users in a variety of different ways or where data is being collected from users as they interact with the application. App Engine integrates pretty nicely with a number of Google services, including data storage, search, email, authentication and caching, making it a plausible route for developing relatively complex web applications without having to worry too much about infrastructure. The downside of all this is that once you build an application on GAE you are more-or-less locked in, the thought of which "drives some people insane":http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/ (although "there are always trade offs between productivity and flexibility":http://venturebeat.com/2013/07/25/google-app-engine-lock-in-what-lock-in/).
 
-None of these technologies are exactly comparable and indeed PHP can be run on Google App Engine, so they are not mutually exclusive either, but they represent a range of plausible choices across a wide range of applications. 
+None of these technologies are exactly comparable and indeed PHP (as well as Python, Java and Go) can be run on Google App Engine, so they are not mutually exclusive either, but they represent a range of plausible choices across a wide range of applications. 
 
 
 
