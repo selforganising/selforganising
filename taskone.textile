@@ -3,14 +3,14 @@ layout: task
 title: "Coding the web: Task One"
 category:
 linktext:  ""
-standfirst: "Learn Python"
+standfirst: "Build a Web search engine in Python"
 ---
 
 <dl>
   
 dt. The task
 
-dd. To learn the fundamentals of computer science and enough Python to move onto the next task using Udacity's "Introduction to Computer Science":https://www.udacity.com/course/cs101.
+dd. Learn the fundamentals of computer science and enough Python to build a Web search engine using Udacity's "Introduction to Computer Science":https://www.udacity.com/course/cs101.
 
 dt. Time required
 
