@@ -12,6 +12,10 @@ dt. The task
 
 dd. Learn the fundamentals of computer science and enough Python to build a Web search engine using Udacity's "Introduction to Computer Science":https://www.udacity.com/course/cs101.
 
+dt. Before you start
+
+dd. Please complete the "Needs assessment":http://goo.gl/LdpXbw.
+
 dt. Time required
 
 dd. Two weeks
