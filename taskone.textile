@@ -14,7 +14,7 @@ dd. Learn the fundamentals of computer science and enough Python to build a Web 
 
 dt. Before you start
 
-dd. Please complete the "Needs assessment":http://goo.gl/LdpXbw.
+dd. Make sure that you have read all the course documents, particularly the "Course guide":http://selforganising.org/course.html and please complete the "Needs assessment":http://goo.gl/LdpXbw.
 
 dt. Time required
 
@@ -29,9 +29,19 @@ dt. Timetable
 * Week 1: Lessons 1-5.
 * Week 2: Lesson 6-11, including the exam after Lesson 7, and Lesson 8 (which is a "mini-unit").
 
-dd. We are going to aim to complete one lesson per day (and fit Lesson 8 in between days). Lessons 1-6 are each followed by a problem set and also an optional problem set. 
+dd. We are going to aim to complete one lesson per day. Lessons 1-6 are each followed by a problem set and also an optional problem set. 
 
-dd. It is important that we have all mastered the material in each lesson before moving onto the next lesson.
+dd. It is important that we have all mastered the material in each lesson before moving on.
+
+dt. Daily schedule
+
+dd. You can come in as early as you want in the morning and leave as late as you want in the evening, although don’t work yourself into the ground and give yourself enough time to complete all the day's work. If you miss a day, you will need to study independently in order not to fall behind.
+
+dd. The daily review is at 4pm. This is a time for us all to review the day's work together and to plan the day ahead. Everyone is expected to attend.
+
+dt. Time management
+
+dd. Study without distractions and take regular breaks. Try the "Strict Workflow Chrome extension":https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd?hl=en, which follows the "Pomodoro Technique":http://en.wikipedia.org/wiki/Pomodoro_Technique. Please share any study methods that work better for you with the rest of us.
 
 dt. Pair programming
 
@@ -42,14 +52,6 @@ dd. As you work through the problem sets, keep an eye out for anyone looking for
 dd. If you are already familiar with Python or are making fast progress, the optional problem sets mean that you are unlikely to run out of material.
 
 dd. Also, remember that pairing on a problem that you have already completed can be as useful to you as to the person you are pairing with. Communicating ideas that you have just yourself learnt is a very good way of deepening your own understanding.
-
-dt. Time management
-
-dd. Study without distractions and take regular breaks. Try the "Strict Workflow Chrome extension":https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd?hl=en, which follows the "Pomodoro Technique":http://en.wikipedia.org/wiki/Pomodoro_Technique. Please share any study methods that work better for you with the rest of us.
-
-dt. Daily review
-
-dd. The daily review is at 4pm. You are welcome to continue studying afterwards, but don't work yourself into the ground. Give yourself time in the evenings to recuperate.
 
 </dl>
 
