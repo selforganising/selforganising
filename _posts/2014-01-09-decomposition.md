@@ -1,4 +1,4 @@
-B---
+---
 layout: post
 title: Decomposition is key to learning to program 
 standfirst: 
