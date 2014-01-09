@@ -1,4 +1,4 @@
----
+B---
 layout: post
 title: Decomposition is key to learning to program 
 standfirst: 
@@ -14,7 +14,7 @@ Let me illustrate using a function that finds the factorial of a number in the P
 
     factorial
 
-`factorial` is a pretty sensible name for a function that returns the factorial of a number.
+`factorial` is a pretty sensible name for a function that returns the factorial of a number :-)
 
 ##### Work out the inputs to the function and give them sensible names.
 
