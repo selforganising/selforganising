@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Decomposing a recursive problem
+title: Decomposing a problem using recursion
 standfirst: 
 author: DS
 ---
 Following on from [Decomposition is key to learning to program](/2014/01/17/recursion.html), here is the same problem solved using recursion.
 
-#### Find the factorial of a number
+### Find the factorial of a number
 
 _n!: the  product of all positive integers less than or equal to n._
 
