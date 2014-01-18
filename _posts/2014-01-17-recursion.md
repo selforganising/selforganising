@@ -4,7 +4,7 @@ title: Decomposing a problem using recursion
 standfirst: 
 author: DS
 ---
-Following on from [Decomposition is key to learning to program](/2014/01/09/decomposition.html), here is the same problem solved using recursion.
+Following on from [Decomposition is key to learning to program](/2014/01/09/decomposition.html), here is the same problem solved in Python using recursion.
 
 #### Find the factorial of a number
 
@@ -28,7 +28,9 @@ _n!: the  product of all positive integers less than or equal to n._
 
 All recursive solutions require a _base case_, where computation stops and a result is returned. Without a _base case_ recursion never stops and no solution is ever returned.
 
-The question of what constitutes the _base case_ is crucial and it will vary from problem to problem. The _base case_ is the set of input values for which the least amount of computational effort is required. In the case of factorial, the first member of the _factorial sequence_ is _n! = 1_,  where `n == 0`. This, then, is an obvious candidate for the _base case_. 
+The question of what constitutes the _base case_ is crucial and it will vary from problem to problem. The _base case_ is the set of input values for which the least amount of computational effort is required. 
+
+In the case of factorial, the first member of the _factorial sequence_ is _n! = 1_,  where `n == 0`. This, then, is an obvious candidate for the _base case_. 
 
 ##### Add a test for the _base case_
 
@@ -50,7 +52,7 @@ The question of what constitutes the _base case_ is crucial and it will vary fro
 
     n == 1
 
-In the case of a function like `factorial` that computes a number that is part of a sequence, it is easy to decide on the each successive test case. In this case, the next value is _n! = 1_, where `n == 1`.
+In the case of a function like `factorial`, that computes a number that is part of a sequence, it is easy to decide on the each successive test case. In this case, the next value is _n! = 1_, where `n == 1`.
 
 ##### Add another test using the next case
 
