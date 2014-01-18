@@ -4,7 +4,7 @@ title: Decomposing a problem using recursion
 standfirst: 
 author: DS
 ---
-Following on from [Decomposition is key to learning to program](/2014/01/17/recursion.html), here is the same problem solved using recursion.
+Following on from [Decomposition is key to learning to program](/2014/01/09/decomposition.html), here is the same problem solved using recursion.
 
 #### Find the factorial of a number
 
