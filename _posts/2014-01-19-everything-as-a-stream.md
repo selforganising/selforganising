@@ -59,7 +59,7 @@ This is the solution I prefer:
                 string += ' '
         return string.split()
 
-The first solution certainly has fewer lines, but arguably it is harder to read and harder to visualise. In the second solution, the variable `recording` is intended to convey the idea of a recording head that is examining the input stream. When the recording head encounters a `<` it stops _recording_ the input stream and when it encounters a `>`, it resumes again. 
+The first solution certainly has fewer lines, but arguably it is harder to read and harder to visualise. In the second solution, the variable `recording` is intended to convey the idea of a recording head that is examining the input stream. When the recording head encounters a `<`, it stops _recording_ the input stream and when it encounters a `>`, it resumes again. The penultimate line replaces the removed tag with a single space to prevent words that were previously separated by tags running together. 
 
 Finally, here is an unpythonic recursive solution:
 
