@@ -1,10 +1,10 @@
 ---
 layout: post
-title: More on recursion
+title: Everything as a stream
 standfirst: 
 author: DS
 ---
-Following on from [Decomposing a problem using recursion](/2014/01/17/recursion.html), here are some more thoughts on recursion.
+Following on from [Decomposing a problem using recursion](/2014/01/17/recursion.html), here are some more thoughts on recursion and related matters.
 
 It is fascinating seeing the solutions that novice programmers discover for what, to a practiced eye, can look like quite simple problems. 
 
