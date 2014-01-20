@@ -12,7 +12,7 @@ A good example (from [Udacity's Intro to Computer Science](https://www.udacity.c
 
 But this problem can also be solved by seeing the text as a continuous stream of characters, being read sequentually, and being transformed character by character. The resulting function is neat and short and legible, but apparently unintelligible to people unfamiliar with this way of doing things.
 
-This idea that the world can be seen as made up of streams--of characters, of numbers, of things in general--on which a series of simple operations can be performed in strict sequence led John McCarthy to create, in 1958, the [LISP programming language](http://en.wikipedia.org/wiki/Lisp_(programming_language)).
+This idea that the world can be seen as made up of streams--of characters, of numbers, of things in general--on which a series of simple operations can be performed in strict sequence led John McCarthy to create, in 1958, the [LISP programming language][1].
 
 Powerful as the idea of everything-as-a-stream is, it does not seem to come naturally to us. We are more inclined to break down problems in a heirarchical way, as processes within processes. Perhaps that is why several centuries separate the planetary hypotheses of Ptolemy and Copernicus. 
 
@@ -81,3 +81,4 @@ Note that the problem has now been split up into two parts, to reflect the two s
 
 For a sufficiently long input string, the Python call stack will overflow (to check the limit, try `sys getrecursionlimit()` in the Python shell), but  in a purely functional language with [tail call optimisation](http://en.wikipedia.org/wiki/Tail_call) and without [mutability](http://en.wikipedia.org/wiki/Immutable_object), this would be a sensible solution.
 
+[1]: http://en.wikipedia.org/wiki/Lisp_(programming_language)
