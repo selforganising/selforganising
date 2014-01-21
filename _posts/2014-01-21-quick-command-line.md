@@ -111,5 +111,5 @@ or
 
     pip install --user beautifulsoup4
 
-(_--user_ is needed when you do not have full access rights to read and write files) 
+( `--user` is needed when you do not have full access rights to read and write files) 
     
