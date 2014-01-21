@@ -6,7 +6,7 @@ author: DS
 ---
 Following on from [Decomposing a problem using recursion](/2014/01/17/recursion.html), here are some more thoughts on recursion and related matters.
 
-It is easy to get caught up in trying to create overly complex solutions to relatively simple problems.
+It is easy to get caught up in trying to create overly-complex solutions to relatively simple problems.
 
 A good example (from [Udacity's Intro to Computer Science](https://www.udacity.com/course/viewer#!/c-cs101/l-48683810/e-48740153/m-48735059)) is the task of removing markup from a document and returning just the text as a list of words. The almost universal tendancy seems to be to create loops within loops, involving scanning the source document back and forth, discarding snippets of markup, and creating snippets of text in order to splice them back into some output variable.
 
