@@ -53,6 +53,8 @@ _"Change Directory"_
 
     touch one.txt
 
+_touch_ changes the access and modification time of a file (i.e. it _touches_ it), but this also creates a new file if none exists with the name given
+
 #####Make a copy of it
 
     cp one.txt two.txt
@@ -87,6 +89,13 @@ _"ReMove Recursively and Forcefully"_. Don't do this.
 
 _"conCATenate and list"_
 
+#####Complete the name of a file without having to type it all
+
+    touch afilewithalongname
+    cat af<tab>
+
+(i.e. use the `tab` key)
+
 #####Cycle through previously-entered commands
 
 Use the up and down arrow keys
@@ -94,6 +103,11 @@ Use the up and down arrow keys
 #####Edit a previously-entered command
 
 Use the left and right arrow keys
+
+#####Run some python code
+
+    echo "print "hello world" > hello.py
+    python hello.py
 
 #####Enter the Python shell
 
