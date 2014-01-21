@@ -89,11 +89,11 @@ _"conCATenate and list"_
 
 #####Cycle through previously-entered commands
 
-    _Use the up and down arrow keys_
+Use the up and down arrow keys
 
 #####Edit a previously-entered command
 
-    _Use the left and right arrow keys_
+Use the left and right arrow keys
 
 #####Enter the Python shell
 
