@@ -79,6 +79,12 @@ _"ReMove"_
 
 _"ReMove Recursively and Forcefully"_. Don't do this.
 
+#####Remove a directory
+
+    rmdir things
+
+_"ReMove DIRectory"_ (you need to empty it first)
+
 #####Put some text into a file
 
     echo "hello" > greet.txt
