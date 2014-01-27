@@ -31,7 +31,7 @@ _Please note: this page is incomplete. More content will be added._
 
     curl -O http://udacity-cs253.appspot.com/static/hw2.tgz
 
-(in this case, CS253 Homework 2. The `-O` option copies the contents into a local file with the same name at the original.)
+(in this case, CS253 Homework 2. The `-O` option copies the contents into a local file with the same name as the original.)
 
 #####Unzip the contents of an archive file
 
