@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: "What's the idea behind Collective Academy"
 standfirst: 
 author: DS

@@ -27,6 +27,12 @@ _Please note: this page is incomplete. More content will be added._
 
     appcfg.py update <path-to-directory>
 
+#####Check that you can reach a remote URL
+
+    ping udacity-cs253.appspot.com
+
+`Ctrl-c` to terminate.
+
 #####Fetch a file at a remote URL
 
     curl -O http://udacity-cs253.appspot.com/static/hw2.tgz
