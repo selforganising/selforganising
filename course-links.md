@@ -13,3 +13,4 @@ _Updated regularly, check back_
 * [Udacity's notes on the Jinja2 templating engine](https://www.udacity.com/wiki/cs253/appendix_b)
 * [Udacity's Introduction to Object-Oriented Programming](https://www.udacity.com/wiki/classes)
 * [Python Application Configuration with app.yaml](https://developers.google.com/appengine/docs/python/config/appconfig)
+* [Explaining the webapp2 Framework](https://developers.google.com/appengine/docs/python/gettingstartedpython27/usingwebapp)
