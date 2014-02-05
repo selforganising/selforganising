@@ -7,7 +7,11 @@ title: Self-organising
 
 dt. Self-organising courses at Collective Academy
 
-dd. In January 2014, we move to our new home at Collective in Camden Town for the start of a six-week full-time course, "_Coding the web_":http://camdencollective.co.uk/academy/, that we are delivering in collaboration with "Camden Town Unlimited":http://www.camdentownunlimited.com/. For more information, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a>. 
+dd. In January 2014, we moved to our new home at Collective in Camden Town for the start of a six-week full-time course, "_Coding the web_":http://camdencollective.co.uk/academy/, that we are delivering in collaboration with "Camden Town Unlimited":http://www.camdentownunlimited.com/. 
+
+dd. To be kept informed of upcoming courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a> and <a href="https://twitter.com/selforganising" target="_blank">follow us on Twitter</a>. 
+
+
 
 dt. Self-organising study groups
   
