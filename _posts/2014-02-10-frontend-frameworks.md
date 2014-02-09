@@ -19,7 +19,9 @@ And have a play with the two downloaded files, which are edited versions of demo
 #####Take a look at the online docs
 
 * [Bootstrap](http://getbootstrap.com/css/)
-* [Foundation](http://foundation.zurb.com/docs/css.html)
+* [Foundation](http://foundation.zurb.com/docs/components/grid.html)
+
+Pay particular attention to the way grids are laid out. Ignore anything that you do not understand after the second or third reading. A lot of the details are really not necessary to get the gist of how these frameworks work.
 
 #####Decide which framework you prefer
 
