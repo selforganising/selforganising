@@ -75,9 +75,9 @@ _"ReMove"_
 
 #####Remove all files and folders without prompting and with no chance of recovery
 
-    rm -rf
+    rm -rf .
 
-_"ReMove Recursively and Forcefully"_. Don't do this.
+_"ReMove Recursively and Forcefully"_ everything in your current working directory. Don't do this. Instead, `mkdir ~/tmp` and `mv` anything you no longer want to there.
 
 #####Remove a directory
 
