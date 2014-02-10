@@ -25,7 +25,7 @@ It has in recent years become standard practice not to download CSS and JavaScri
 
 It is increasingly the case that web pages are constructed with styling, scripts, images and data all provided from different sources. The example pages linked to below are simple examples of this trend.
 
-Any additional site-specific styling or behaviour can be added in separate _.css_ or _.js_ files that you create end edit yourself.
+Any additional site-specific styling or behaviour can be added in separate _.css_ or _.js_ files that you create and edit yourself.
 
 #####Download the frameworks
 
@@ -70,3 +70,4 @@ For the end-of-day review:
 
 * Which framework did you prefer and why?
 * How does your blog now look?
+
