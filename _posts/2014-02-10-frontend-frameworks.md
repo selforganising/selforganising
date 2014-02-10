@@ -19,13 +19,13 @@ Anywhere on Nitrous (or on your own desktop):
 
 #####Look at the source code
 
-Use Chrome's Developer tools (_"Inspect element"_ in the context menu) to investigate the relationship between a document's HTML and the CSS.
+Use Chrome's Developer tools ( _"Inspect element"_ in the context menu) to investigate the relationship between a document's HTML and the CSS.
 
 Pay particular attention to the headers and to the `row` and `columns` _div_s in Foundation and the `row` and `col-md-4` _div_s in Bootstrap.
 
-In `foundation.html`, what is the significance of `foundation.min.css`, `modernizr.min.css`, `jquery.min.js` and `foundation.min.js`?
+In _foundation.html_, what is the significance of `foundation.min.css`, `modernizr.min.css`, `jquery.min.js` and `foundation.min.js`?
 
-In `bootstrap.html`, what is the significance of `bootstrap.min.css`, `bootstrap-theme.min.css`, `jquery-1.10.2.min.js` and `bootstrap.min.js`.
+In _bootstrap.html_, what is the significance of `bootstrap.min.css`, `bootstrap-theme.min.css`, `jquery-1.10.2.min.js` and `bootstrap.min.js`.
 
 Where are these files being served from? Does their location on the page matter? What is a `protocol-relative path` and why would you want to use one? 
 
