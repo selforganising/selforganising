@@ -9,12 +9,17 @@ author: DS
 
 #####Download the frameworks
 
+Anywhere on Nitrous (or on your own desktop):
+
     mkdir frameworks
+    cd frameworks
     curl -O https://gist.github.com/sofer/8902360/raw/8cc1c1aec43b9081792fff567b95a2cd5803531d/foundation.html
     curl -O https://gist.github.com/sofer/8906628/raw/4c74d5dd82aacf9ff515486780c7c2fdc2f90e97/bootstrap.html 
     python -m SimpleHTTPServer 3000
 
 #####Look at the source code
+
+Use Chrome's Developer tools (_"Inspect element"_ in the context menu) to investigate the relationship between a document's HTML and the CSS.
 
 Pay particular attention to the headers and to the `row` and `columns` _div_s in Foundation and the `row` and `col-md-4` _div_s in Bootstrap.
 
