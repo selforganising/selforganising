@@ -7,14 +7,20 @@ author: DS
 
 ####Task: style your blog using a frontend framework
 
+#####What is a frontend framework?
+
+A CSS framework will generally consist of a stylesheet with an array of pre-defined classes that can be included in an HTML page to determine elements of layout, typography, forms, buttons and navigation. Full frontend frameworks like Foundation and Bootstrap also contain JavaScript libraries and icons to add further elements of ldesign and behaviour.
+
+Although it takes a lot of time and patience to get familiar with these sorts of frameworks, it is possible to get some familiarity with them quite quickly.
+
 #####Download the frameworks
 
 Anywhere on Nitrous (or on your own desktop):
 
     mkdir frameworks
     cd frameworks
-    curl -O https://gist.github.com/sofer/8902360/raw/8cc1c1aec43b9081792fff567b95a2cd5803531d/foundation.html
-    curl -O https://gist.github.com/sofer/8906628/raw/4c74d5dd82aacf9ff515486780c7c2fdc2f90e97/bootstrap.html 
+    curl -O https://gist.github.com/sofer/8902360/raw/6a29780f24f8ce93c950dc41086387496c0ec5b7/foundation.html
+    curl -O https://gist.github.com/sofer/8906628/raw/6f6597c98a33cca2cf4e393eb3b74c230c7aa6fd/bootstrap.html
     python -m SimpleHTTPServer 3000
 
 #####Look at the source code
