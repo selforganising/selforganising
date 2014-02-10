@@ -9,9 +9,23 @@ author: DS
 
 #####What is a frontend framework?
 
-A CSS framework will generally consist of a stylesheet with an array of pre-defined classes that can be included in an HTML page to determine elements of layout, typography, forms, buttons and navigation. Full frontend frameworks like Foundation and Bootstrap also contain JavaScript libraries and icons to add further elements of ldesign and behaviour.
+A CSS framework will generally consist of a stylesheet with an array of pre-defined classes that can be included in an HTML page to determine elements of layout, typography, forms, buttons and navigation. Full frontend frameworks like Foundation and Bootstrap also contain JavaScript libraries and icons to add further elements of design and behaviour.
 
-Although it takes a lot of time and patience to get familiar with these sorts of frameworks, it is possible to get some familiarity with them quite quickly.
+Although it takes a lot of time and patience to get really familiar with these frameworks, it is possible to get some familiarity quite quickly.
+
+#####Why Foundation and Bootstrap?
+
+Bootstrap is the most widely-used frontend framework. Foundation is preferred by many. Between them, They are the two most popular frameworks in use today.
+
+#####How to use them?
+
+The frameworks can be downloaded straight from the their respective websites, but the standard downloads contain a lot of files that you will not necessarily need.
+
+It has in recent years become standard practice not to download CSS and JavaScript library files, but to link to them in HTML pages using third-party CDNs (Content Delivery Networks), for example [cdnjs.com](http://cdnjs.com/).
+
+It is increasingly the case that web pages are constructed with styling, scripts, images and data all provided from different sources. The example pages linked to below are simple examples of this trend.
+
+Any additional site-specific styling or behaviour can be added in separate _.css_ or _.js_ files that you create end edit yourself.
 
 #####Download the frameworks
 
