@@ -29,7 +29,7 @@ There is a good summary of [how jQuery works](http://learn.jquery.com/about-jque
 
 #####How to use jQuery
 
-As with using a frontend framework library like Twitter Bootstrap, link to a version of jQuery delivered from a CDN (such a [cdnjs](http://cdnjs.com/libraries/jquery/) and create a separate link to a local _application_ link. In order to reduce load times, link to both files at the bottome of your document:
+As with using a frontend framework library like Twitter Bootstrap, link to a version of jQuery delivered from a CDN (such a [cdnjs](http://cdnjs.com/libraries/jquery/)) and create a separate link to a local _application_ link. In order to reduce load times, link to both files at the bottome of your document:
 
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
         <script src="/js/application.js"></script>
