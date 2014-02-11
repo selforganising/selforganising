@@ -1,4 +1,4 @@
-B---
+---
 layout: post
 title: JavaScript, jQuery, and the DOM
 standfirst: 
