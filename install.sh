@@ -10,7 +10,7 @@ sudo apt-get install -y openjdk-7-jdk
 echo 'Add a bin directory: mkdir ~/bin'
 mkdir ~/bin
 echo 'Re-run .profile to add new bin directory to path: . .profile'
-. .profile
+. ~/.profile
 echo 'Download leiningen: wget -O ~/bin/lein https://raw.github.com/technomancy/leiningen/stable/bin/lein'
 wget -O ~/bin/lein https://raw.github.com/technomancy/leiningen/stable/bin/lein
 echo 'Make ~/bin/lein executable: chmod 755 ~/bin/lein'
