@@ -1,23 +1,23 @@
 echo
-echo 'cd $HOME'
+echo 'Change to home directory: cd $HOME'
 cd $HOME
-echo sudo apt-get install -y git
+echo 'Dowload git: sudo apt-get install -y git' 
 sudo apt-get install -y git
-echo sudo apt-get install -y curl
+echo 'Download curl: sudo apt-get install -y curl'
 sudo apt-get install -y curl
-echo sudo apt-get install -y openjdk-7-jdk
+echo 'Dowload java: sudo apt-get install -y openjdk-7-jdk'
 sudo apt-get install -y openjdk-7-jdk
-echo mkdir "~/bin"
+echo 'Add a bin directory: mkdir ~/bin'
 mkdir ~/bin
-echo . .profile (run .profile to add new bin directory to path)
+echo 'Re-run .profile to add new bin directory to path: . .profile'
 . .profile
-echo wget -O ~/bin/lein https://raw.github.com/technomancy/leiningen/stable/bin/lein
+echo 'Download leiningen: wget -O ~/bin/lein https://raw.github.com/technomancy/leiningen/stable/bin/lein'
 wget -O ~/bin/lein https://raw.github.com/technomancy/leiningen/stable/bin/lein
-echo "chmod 755 ~/bin/lein"
+echo 'Make ~/bin/lein executable: chmod 755 ~/bin/lein'
 chmod 755 ~/bin/lein
-echo git clone https://github.com/LightTable/LightTable.git
+echo 'Clone LightTable: git clone https://github.com/LightTable/LightTable.git'
 git clone https://github.com/LightTable/LightTable.git
-echo cd LightTable
+echo 'cd LightTable'
 cd LightTable
-echo bash linux_deps.sh
+echo 'Run the LightTable setup script: bash linux_deps.sh'
 bash linux_deps.sh
