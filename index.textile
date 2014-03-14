@@ -15,7 +15,6 @@ dt. Self-organising study groups
   
 dd. Since January 2013, we have been meeting at the British Library for a series of study groups on a wide range of subjects, including game theory, data science, functional programming, cryptography and statistics. "Anyone is welcome to propose a new study group":http://www.meetup.com/selforganising/London/.
 
-
 dt. Self-organising mentors
 
 dd. We want to hear from you if you are interested in getting involved in any of our courses or study groups. We are particularly keen to hear from you if you are interested in speaking to students and alumni of our courses at Collective Academy about your particular area of expertise or in acting as a mentor. <a href="mailto:academy@selforganising.org">Please get in touch</a>.
