@@ -25,7 +25,7 @@ echo 'Run the LightTable setup script: bash linux_deps.sh'
 bash linux_deps.sh
 echo 'Install myunity: sudo apt-get install -y myunity' 
 sudo apt-get install -y myunity
-echo 'myunity installed, just so we can easily change themes and other stuff.
+echo 'myunity installed, just so we can easily change themes and other stuff.'
 
 
 
