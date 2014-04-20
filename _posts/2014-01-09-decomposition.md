@@ -118,7 +118,7 @@ This is one possible approach:
     print factorial(2) == 2
     print factorial(3) == 6
 
-But, at this point (and quite possibly earlier) the student who is familiar enough with `while` loops will see that this approach is not going to generalise very well and will probably suspect that there is a better way to do this:
+But, at this point (and quite possibly earlier) anyone who is familiar enough with `while` loops will see that this approach is not going to generalise very well and will probably suspect that there is a better way to do this:
 
     def factorial(n):
         total = 1
@@ -141,7 +141,7 @@ This, in fact, is a perfectly reasonable answer. All the tests will pass:
 
 And further tests will confirm that this is a good general solution.
 
-Now, there is no easy way to make the cognitive leap required to recognise that this solution requires a looping structure of the kind illustrated, but the purpose of this slow and deliberate approach is to get the to the point where the programmer has a suitable framework in which to think about possible solutions.
+Now, there is no easy way to make the cognitive leap required to recognise that this solution requires a looping structure of the kind illustrated, but the purpose of this slow and deliberate approach is to get to the point where the programmer has a suitable framework in which to think about possible solutions.
 
-At least if a student can get to the point where they have the skeleton of a solution and some passing tests, they can concentrate on working out the core of a problem without the baggage of an ill-defined function with misconceived arguments and spurious return values--which seem to be the bane of many novice programmers in the first few days of learning to program.
+At least if you can get to the point where you have the skeleton of a solution and some passing tests, you can concentrate on working out the core of a problem without the baggage of an ill-defined function with misconceived arguments and spurious return values--which seem to be the bane of many novice programmers in the first few days of learning to program.
 
