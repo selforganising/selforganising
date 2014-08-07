@@ -7,24 +7,10 @@ title: Self-organising
 
 dt. Self-organising courses at Collective Academy
 
-dd. Applications will soon be re-opening for "_Founders &amp; Coders_":http://foundersandcoders.org/, a seven-week full-time course that we are delivering in collaboration with "Collective":http://camdencollective.co.uk/. 
-
-dd. To be kept informed of upcoming courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a> and <a href="https://twitter.com/selforganising" target="_blank">follow us on Twitter</a>. 
+dd. "_Founders &amp; Coders_":http://foundersandcoders.org/ is an an eight-week full-time course in web development that we are delivering in collaboration with "Collective":http://camdencollective.co.uk/. 
 
 dt. Self-organising study groups
   
 dd. Since January 2013, we have been meeting at the British Library for a series of study groups on a wide range of subjects, including game theory, data science, functional programming, cryptography and statistics. "Anyone is welcome to propose a new study group":http://www.meetup.com/selforganising/London/.
-
-dt. Self-organising mentors
-
-dd. We want to hear from you if you are interested in getting involved in any of our courses or study groups. We are particularly keen to hear from you if you are interested in speaking to students and alumni of our courses at Collective Academy about your particular area of expertise or in acting as a mentor. <a href="mailto:academy@selforganising.org">Please get in touch</a>.
-
-dt. Self-organising sponsors
-  
-dd. We want to hear from you if you are interested in speaking to students and alumni of our courses at Collective Academy about your company, the work you do, and the skills that your company needs. <a href="mailto:academy@selforganising.org">Please get in touch</a>.</dd>
-
-dt. Self-organising events
-
-dd. We will keep you posted.
 
 </dl>
