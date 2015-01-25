@@ -5,12 +5,8 @@ title: Self-organising
 
 <dl>
 
-dt. Self-organising courses at Collective Academy
-
-dd. "_Founders &amp; Coders_":http://foundersandcoders.org/ is an an eight-week full-time course in web development that we are delivering in collaboration with "Collective":http://camdencollective.co.uk/. 
-
-dt. Self-organising study groups
+dt. Self-organising
   
-dd. Since January 2013, we have been meeting at the British Library for a series of study groups on a wide range of subjects, including game theory, data science, functional programming, cryptography and statistics. "Anyone is welcome to propose a new study group":http://www.meetup.com/selforganising/London/.
+dd. From January 2013, we met at the British Library for a series of study groups on a wide range of subjects, including game theory, data science, functional programming, cryptography and statistics. Over the course of 2014, Self-organising morphed into what now has become "_Founders &amp; Coders_":http://foundersandcoders.org/. 
 
 </dl>
